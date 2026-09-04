@@ -1,1 +1,553 @@
-[]
+[
+  {
+    "name": "GCH Leisure Time CF The Works",
+    "dateOfBirth": "2012-04-19T00:00:00",
+    "normalizeId": "PD1599690",
+    "id": 1391527,
+    "sex": "Male",
+    "damId": 1361501,
+    "sireId": 1331397,
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "colorAndMarking": "Buckskin; White Markings; Blue Eyes",
+    "animalTattoo": [
+      {
+        "tattoo": "1LTD",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "C9",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2018-07-20T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 89,
+        "isPermanent": true,
+        "id": 260592
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2017-06-07T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 250468
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2016-09-01T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 244912
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2015-06-02T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 226636
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2014-08-23T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 220181
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2013-06-18T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 83,
+        "isPermanent": false,
+        "id": 206591
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2016,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2016,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2016,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "CH Leisure Time TW Peter Pan",
+    "dateOfBirth": "2017-02-28T00:00:00",
+    "normalizeId": "PD1851106",
+    "id": 1643421,
+    "sex": "Male",
+    "damId": 1472095,
+    "sireId": 1391527,
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "colorAndMarking": "Broken Buckskin, Brown Eyes",
+    "animalTattoo": [
+      {
+        "tattoo": "1LTD",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "J3",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2023-07-31T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 90,
+        "isPermanent": true,
+        "id": 303228
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2018-07-20T00:00:00",
+        "generalAppearance": "A",
+        "dairyStrength": "V",
+        "bodyCapacity": "+",
+        "mammarySystem": null,
+        "finalScore": 79,
+        "isPermanent": false,
+        "id": 260607
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2023,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2017,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Hetlandcreek Sharp Dressed Man",
+    "dateOfBirth": "2017-04-03T00:00:00",
+    "normalizeId": "PD1851930",
+    "id": 1644245,
+    "sex": "Male",
+    "damId": 1410083,
+    "sireId": 1466770,
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "colorAndMarking": "Buckskin With White ",
+    "animalTattoo": [
+      {
+        "tattoo": "DHE1",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "J4",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2018-07-20T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "+",
+        "mammarySystem": null,
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 260609
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "++B (AR)",
+        "awardDescription": "3 AR Does And 2 AR Bucks",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (ST)",
+        "awardDescription": "1 AR Buck And 2 AR/ST Does",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2020,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Leisure Time ZZ GQ",
+    "dateOfBirth": "2018-03-04T00:00:00",
+    "normalizeId": "PD1962239",
+    "id": 1754574,
+    "sex": "Male",
+    "damId": 1487307,
+    "sireId": 1644245,
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "colorAndMarking": "Broken Buckskin, Black Spot On Nose, Brown Eyes",
+    "animalTattoo": [
+      {
+        "tattoo": "1LTD",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "K50",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ],
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2018,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Hetlandcreek GQ Red Hot Magma",
+    "dateOfBirth": "2019-06-05T00:00:00",
+    "normalizeId": "PD2041616",
+    "id": 1834014,
+    "sex": "Male",
+    "damId": 1723846,
+    "sireId": 1754574,
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "colorAndMarking": "Buckskin With White ",
+    "animalTattoo": [
+      {
+        "tattoo": "DHE1",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "L21",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ],
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2020,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Leisure Time ST Tiger L Vis?",
+    "dateOfBirth": "2021-03-20T15:40:54",
+    "normalizeId": "PD2207575",
+    "id": 2207575,
+    "sex": "Male",
+    "damId": 1730921,
+    "sireId": 1517170,
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "colorAndMarking": "Broken Buckskin, Blue Eyes",
+    "animalTattoo": [
+      {
+        "tattoo": "1LTD",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "N18",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ],
+    "linearAppraisals": [],
+    "awards": []
+  },
+  {
+    "name": "Leisure Time TW Volcanic Ash",
+    "dateOfBirth": "2021-04-17T15:48:00",
+    "normalizeId": "PD2207576",
+    "id": 2207576,
+    "sex": "Male",
+    "damId": 1723846,
+    "sireId": 1391527,
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "colorAndMarking": "Broken Buckskin, Blue Eyes",
+    "animalTattoo": [
+      {
+        "tattoo": "1LTD",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "N48",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ],
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2022,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Leisure Time GQ Jump For Joy",
+    "dateOfBirth": "2022-03-20T12:25:45",
+    "normalizeId": "PD2231572",
+    "id": 2231572,
+    "sex": "Male",
+    "damId": 1487302,
+    "sireId": 1754574,
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "colorAndMarking": "Black & White, Brown Eyes",
+    "animalTattoo": [
+      {
+        "tattoo": "1LTD",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "P20",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ],
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2022,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Leisure Time ZZ Mr. Lincoln",
+    "dateOfBirth": "2022-03-13T11:38:03",
+    "normalizeId": "PD2280578",
+    "id": 2280578,
+    "sex": "Male",
+    "damId": 1730922,
+    "sireId": 1644245,
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "colorAndMarking": "Black & White, Brown Eyes",
+    "animalTattoo": [
+      {
+        "tattoo": "1LTD",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "P9",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ],
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2023,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Four Cedars QR Feel The Noize",
+    "dateOfBirth": "2023-05-07T11:58:09",
+    "normalizeId": "PD2324928",
+    "id": 2324928,
+    "sex": "Male",
+    "damId": 1755362,
+    "sireId": 1794026,
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "colorAndMarking": "Broken Chamoise",
+    "animalTattoo": [
+      {
+        "tattoo": "4C",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "R35",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ],
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2022,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Leisure Time HD T.R.O.U.B.L.E",
+    "dateOfBirth": "2022-08-20T06:40:19",
+    "normalizeId": "PD2327518",
+    "id": 2327518,
+    "sex": "Male",
+    "damId": 1472088,
+    "sireId": 1882649,
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "colorAndMarking": "Chocolate Buckskin, Moonspots, Brown Eyes",
+    "animalTattoo": [
+      {
+        "tattoo": "1LTD",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "P55",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2023-07-31T00:00:00",
+        "generalAppearance": "G",
+        "dairyStrength": "G",
+        "bodyCapacity": "G",
+        "mammarySystem": null,
+        "finalScore": 83,
+        "isPermanent": false,
+        "id": 307131
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2023,
+        "awardCount": 1
+      }
+    ]
+  }
+]
