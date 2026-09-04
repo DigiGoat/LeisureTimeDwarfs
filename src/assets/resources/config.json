@@ -1,1 +1,32 @@
-{}
+{
+  "title": "",
+  "shortTitle": "",
+  "owner": "",
+  "email": "",
+  "hideEmail": false,
+  "homeDescription": "",
+  "colors": {
+    "background": "",
+    "main": "",
+    "secondary": "",
+    "tertiary": "",
+    "quaternary": "",
+    "light": {
+      "main": "",
+      "secondary": "",
+      "tertiary": "",
+      "quaternary": ""
+    }
+  },
+  "kiddingSchedule": true,
+  "kiddingScheduleDescription": "",
+  "references": false,
+  "forSale": false,
+  "saleTerms": "",
+  "socials": {
+    "facebook": "",
+    "instagram": "",
+    "threads": ""
+  },
+  "contactForm": false
+}
