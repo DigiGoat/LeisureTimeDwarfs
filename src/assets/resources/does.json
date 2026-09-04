@@ -13713,32 +13713,47 @@
     ]
   },
   {
+    "nickname": "Wicked",
     "name": "Leisure Time BB Udderly Wicked",
-    "dateOfBirth": "2024-03-12T11:43:56",
+    "description": "",
     "normalizeId": "PD2377055",
+    "dateOfBirth": "2024-03-12T11:43:56",
+    "dateOfDeath": "",
+    "colorAndMarking": "Chocolate With Moonspots, Brown Eyes",
     "id": 2377055,
     "sex": "Female",
     "damId": 1730920,
     "sireId": 2298456,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "Chocolate With Moonspots, Brown Eyes",
-    "animalTattoo": [
+    "owner": "Kristine Struve-Hagan",
+    "linearAppraisals": [],
+    "pet": false,
+    "price": "",
+    "awards": [
       {
-        "tattoo": "1LTD",
-        "tattooLocation": {
-          "name": "RE"
-        }
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2025,
+        "awardCount": 1
       },
       {
-        "tattoo": "S8",
-        "tattooLocation": {
-          "name": "LE"
-        }
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2021,
+        "awardCount": 7
       }
     ],
-    "linearAppraisals": [],
     "usdaId": "NDUSA000002377055",
     "usdaKey": 2105382,
     "lactationRecords": [
@@ -13829,30 +13844,31 @@
         ]
       }
     ],
-    "awards": [
+    "tattoos": [
       {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Protein",
-        "awardYear": 2025,
-        "awardCount": 1
+        "location": "1LTD",
+        "description": "RE"
       },
       {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Butterfat",
-        "awardYear": 2025,
-        "awardCount": 1
+        "location": "S8",
+        "description": "LE"
+      }
+    ],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": [
+      {
+        "tattoo": "1LTD",
+        "tattooLocation": {
+          "name": "RE"
+        }
       },
       {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Milk",
-        "awardYear": 2025,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2021,
-        "awardCount": 7
+        "tattoo": "S8",
+        "tattooLocation": {
+          "name": "LE"
+        }
       }
     ]
   },
