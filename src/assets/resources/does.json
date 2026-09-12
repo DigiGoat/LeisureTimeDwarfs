@@ -5005,38 +5005,6 @@
     "awards": []
   },
   {
-    "name": "Leisure Time BB Oh Sugar Bees",
-    "dateOfBirth": "2025-04-14T13:40:08",
-    "normalizeId": "PD2460778",
-    "id": 2460778,
-    "sex": "Female",
-    "damId": 2256088,
-    "sireId": 2298456,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "Broken Blue Roan, Brown Eyes",
-    "animalTattoo": [
-      {
-        "tattoo": "1LTD",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "T36",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002460778",
-    "usdaKey": 2186692,
-    "lactationRecords": [],
-    "awards": []
-  },
-  {
     "name": "Leisure Time BB Volcanic Reign",
     "dateOfBirth": "2025-03-26T13:46:08",
     "normalizeId": "PD2460779",
