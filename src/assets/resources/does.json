@@ -5037,38 +5037,6 @@
     "awards": []
   },
   {
-    "name": "Leisure Time BB Piper",
-    "dateOfBirth": "2025-03-24T16:51:22",
-    "normalizeId": "PD2502264",
-    "id": 2502264,
-    "sex": "Female",
-    "damId": 2175806,
-    "sireId": 2298456,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "Broken Buckskin, Blue Eyes",
-    "animalTattoo": [
-      {
-        "tattoo": "1LTD",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "T1",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002502264",
-    "usdaKey": 2225473,
-    "lactationRecords": [],
-    "awards": []
-  },
-  {
     "name": "Leisure Time Lucy In The Sky",
     "dateOfBirth": "2025-03-24T16:58:52",
     "normalizeId": "PD2502265",
