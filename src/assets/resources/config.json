@@ -12,10 +12,10 @@
     "tertiary": "hsl(0, 100%, 20%)",
     "quaternary": "hsl(0, 100%, 25%)",
     "light": {
-      "main": "hsl(0, 100%, 80%)",
-      "secondary": "hsl(0, 100%, 75%)",
-      "tertiary": "hsl(0, 100%, 70%)",
-      "quaternary": "hsl(0, 100%, 65%)"
+      "main": "hsl(0, 100%, 100%)",
+      "secondary": "hsl(0, 100%, 25%)",
+      "tertiary": "hsl(0, 100%, 20%)",
+      "quaternary": "hsl(0, 100%, 15%)"
     }
   },
   "kiddingSchedule": true,
