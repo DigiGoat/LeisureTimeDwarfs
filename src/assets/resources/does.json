@@ -5005,38 +5005,6 @@
     "awards": []
   },
   {
-    "name": "Leisure Time BB Volcanic Reign",
-    "dateOfBirth": "2025-03-26T13:46:08",
-    "normalizeId": "PD2460779",
-    "id": 2460779,
-    "sex": "Female",
-    "damId": 2231568,
-    "sireId": 2298456,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "Black And White, Brown Eyes",
-    "animalTattoo": [
-      {
-        "tattoo": "1LTD",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "T17",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002460779",
-    "usdaKey": 2186693,
-    "lactationRecords": [],
-    "awards": []
-  },
-  {
     "name": "Leisure Time FN Duchess",
     "dateOfBirth": "2025-04-08T13:53:32",
     "normalizeId": "PD2460780",
