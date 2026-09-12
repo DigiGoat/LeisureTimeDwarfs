@@ -5005,38 +5005,6 @@
     "awards": []
   },
   {
-    "name": "Leisure Time HD PB Mocha",
-    "dateOfBirth": "2025-04-14T12:34:39",
-    "normalizeId": "PD2471926",
-    "id": 2471926,
-    "sex": "Female",
-    "damId": 2231570,
-    "sireId": 1882649,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "Chocolate Buckskin, Brown Eyes",
-    "animalTattoo": [
-      {
-        "tattoo": "1LTD",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "T34",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002471926",
-    "usdaKey": 2201744,
-    "lactationRecords": [],
-    "awards": []
-  },
-  {
     "name": "Leisure Time BB Noelani",
     "dateOfBirth": "2025-03-26T12:50:39",
     "normalizeId": "PD2474063",
