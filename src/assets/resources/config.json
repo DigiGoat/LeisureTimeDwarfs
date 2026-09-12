@@ -12,7 +12,7 @@
     "tertiary": "hsl(0, 100%, 20%)",
     "quaternary": "hsl(0, 100%, 25%)",
     "light": {
-      "main": "hsl(0, 100%, 100%)",
+      "main": "hsl(0, 25%, 70%)",
       "secondary": "hsl(0, 100%, 25%)",
       "tertiary": "hsl(0, 75%, 25%)",
       "quaternary": "hsl(0, 50%, 25%)"
