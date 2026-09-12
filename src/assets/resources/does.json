@@ -4717,38 +4717,6 @@
     ]
   },
   {
-    "name": "Leisure Time BB Faded Bloom",
-    "dateOfBirth": "2024-04-04T18:54:54",
-    "normalizeId": "PD2375448",
-    "id": 2375448,
-    "sex": "Female",
-    "damId": 2349165,
-    "sireId": 2298456,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "Broken Buckskin, Blue Eyes",
-    "animalTattoo": [
-      {
-        "tattoo": "1LTD",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "S21",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002375448",
-    "usdaKey": 2103778,
-    "lactationRecords": [],
-    "awards": []
-  },
-  {
     "name": "Leisure Time BB Spring Lily",
     "dateOfBirth": "2024-03-22T11:20:35",
     "normalizeId": "PD2377033",
