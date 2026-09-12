@@ -1,30 +1,17 @@
 [
   {
+    "nickname": "",
     "name": "CH Leisure Time TW Peter Pan",
-    "dateOfBirth": "2017-02-28T00:00:00",
+    "description": "",
     "normalizeId": "PD1851106",
+    "dateOfBirth": "2017-02-28T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "Broken Buckskin, Brown Eyes",
     "id": 1643421,
     "sex": "Male",
     "damId": 1472095,
     "sireId": 1391527,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "Broken Buckskin, Brown Eyes",
-    "animalTattoo": [
-      {
-        "tattoo": "1LTD",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "J3",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -49,6 +36,8 @@
         "id": 260607
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "CH",
@@ -62,20 +51,78 @@
         "awardYear": 2017,
         "awardCount": 1
       }
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [
+      {
+        "location": "1LTD",
+        "description": "RE"
+      },
+      {
+        "location": "J3",
+        "description": "LE"
+      }
+    ],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": [
+      {
+        "tattoo": "1LTD",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "J3",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
     ]
   },
   {
+    "nickname": "",
     "name": "Hetlandcreek GQ Red Hot Magma",
-    "dateOfBirth": "2019-06-05T00:00:00",
+    "description": "",
     "normalizeId": "PD2041616",
+    "dateOfBirth": "2019-06-05T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "Buckskin With White ",
     "id": 1834014,
     "sex": "Male",
     "damId": 1723846,
     "sireId": 1754574,
+    "owner": "Kristine Struve-Hagan",
+    "linearAppraisals": [],
+    "pet": false,
+    "price": "",
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2020,
+        "awardCount": 1
+      }
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [
+      {
+        "location": "DHE1",
+        "description": "RE"
+      },
+      {
+        "location": "L21",
+        "description": "LE"
+      }
+    ],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "Buckskin With White ",
     "animalTattoo": [
       {
         "tattoo": "DHE1",
@@ -89,29 +136,41 @@
           "name": "LE"
         }
       }
-    ],
-    "linearAppraisals": [],
-    "awards": [
-      {
-        "awardCode": "*B",
-        "awardDescription": "*Buck",
-        "awardYear": 2020,
-        "awardCount": 1
-      }
     ]
   },
   {
+    "nickname": "",
     "name": "Leisure Time ST Tiger L Vis?",
-    "dateOfBirth": "2021-03-20T15:40:54",
+    "description": "",
     "normalizeId": "PD2207575",
+    "dateOfBirth": "2021-03-20T15:40:54",
+    "dateOfDeath": "",
+    "colorAndMarking": "Broken Buckskin, Blue Eyes",
     "id": 2207575,
     "sex": "Male",
     "damId": 1730921,
     "sireId": 1517170,
+    "owner": "Kristine Struve-Hagan",
+    "linearAppraisals": [],
+    "pet": false,
+    "price": "",
+    "awards": [],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [
+      {
+        "location": "1LTD",
+        "description": "RE"
+      },
+      {
+        "location": "N18",
+        "description": "LE"
+      }
+    ],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "Broken Buckskin, Blue Eyes",
     "animalTattoo": [
       {
         "tattoo": "1LTD",
@@ -125,22 +184,48 @@
           "name": "LE"
         }
       }
-    ],
-    "linearAppraisals": [],
-    "awards": []
+    ]
   },
   {
+    "nickname": "",
     "name": "Leisure Time TW Volcanic Ash",
-    "dateOfBirth": "2021-04-17T15:48:00",
+    "description": "",
     "normalizeId": "PD2207576",
+    "dateOfBirth": "2021-04-17T15:48:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "Broken Buckskin, Blue Eyes",
     "id": 2207576,
     "sex": "Male",
     "damId": 1723846,
     "sireId": 1391527,
+    "owner": "Kristine Struve-Hagan",
+    "linearAppraisals": [],
+    "pet": false,
+    "price": "",
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2022,
+        "awardCount": 1
+      }
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [
+      {
+        "location": "1LTD",
+        "description": "RE"
+      },
+      {
+        "location": "N48",
+        "description": "LE"
+      }
+    ],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "Broken Buckskin, Blue Eyes",
     "animalTattoo": [
       {
         "tattoo": "1LTD",
@@ -154,8 +239,24 @@
           "name": "LE"
         }
       }
-    ],
+    ]
+  },
+  {
+    "nickname": "",
+    "name": "Leisure Time GQ Jump For Joy",
+    "description": "",
+    "normalizeId": "PD2231572",
+    "dateOfBirth": "2022-03-20T12:25:45",
+    "dateOfDeath": "",
+    "colorAndMarking": "Black & White, Brown Eyes",
+    "id": 2231572,
+    "sex": "Male",
+    "damId": 1487302,
+    "sireId": 1754574,
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*B",
@@ -163,20 +264,23 @@
         "awardYear": 2022,
         "awardCount": 1
       }
-    ]
-  },
-  {
-    "name": "Leisure Time GQ Jump For Joy",
-    "dateOfBirth": "2022-03-20T12:25:45",
-    "normalizeId": "PD2231572",
-    "id": 2231572,
-    "sex": "Male",
-    "damId": 1487302,
-    "sireId": 1754574,
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [
+      {
+        "location": "1LTD",
+        "description": "RE"
+      },
+      {
+        "location": "P20",
+        "description": "LE"
+      }
+    ],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "Black & White, Brown Eyes",
     "animalTattoo": [
       {
         "tattoo": "1LTD",
@@ -190,29 +294,48 @@
           "name": "LE"
         }
       }
-    ],
-    "linearAppraisals": [],
-    "awards": [
-      {
-        "awardCode": "*B",
-        "awardDescription": "*Buck",
-        "awardYear": 2022,
-        "awardCount": 1
-      }
     ]
   },
   {
+    "nickname": "",
     "name": "Leisure Time ZZ Mr. Lincoln",
-    "dateOfBirth": "2022-03-13T11:38:03",
+    "description": "",
     "normalizeId": "PD2280578",
+    "dateOfBirth": "2022-03-13T11:38:03",
+    "dateOfDeath": "",
+    "colorAndMarking": "Black & White, Brown Eyes",
     "id": 2280578,
     "sex": "Male",
     "damId": 1730922,
     "sireId": 1644245,
+    "owner": "Kristine Struve-Hagan",
+    "linearAppraisals": [],
+    "pet": false,
+    "price": "",
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2023,
+        "awardCount": 1
+      }
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [
+      {
+        "location": "1LTD",
+        "description": "RE"
+      },
+      {
+        "location": "P9",
+        "description": "LE"
+      }
+    ],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "Black & White, Brown Eyes",
     "animalTattoo": [
       {
         "tattoo": "1LTD",
@@ -226,29 +349,48 @@
           "name": "LE"
         }
       }
-    ],
-    "linearAppraisals": [],
-    "awards": [
-      {
-        "awardCode": "*B",
-        "awardDescription": "*Buck",
-        "awardYear": 2023,
-        "awardCount": 1
-      }
     ]
   },
   {
+    "nickname": "",
     "name": "Four Cedars QR Feel The Noize",
-    "dateOfBirth": "2023-05-07T11:58:09",
+    "description": "",
     "normalizeId": "PD2324928",
+    "dateOfBirth": "2023-05-07T11:58:09",
+    "dateOfDeath": "",
+    "colorAndMarking": "Broken Chamoise",
     "id": 2324928,
     "sex": "Male",
     "damId": 1755362,
     "sireId": 1794026,
+    "owner": "Kristine Struve-Hagan",
+    "linearAppraisals": [],
+    "pet": false,
+    "price": "",
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2022,
+        "awardCount": 1
+      }
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [
+      {
+        "location": "4C",
+        "description": "RE"
+      },
+      {
+        "location": "R35",
+        "description": "LE"
+      }
+    ],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "Broken Chamoise",
     "animalTattoo": [
       {
         "tattoo": "4C",
@@ -262,43 +404,21 @@
           "name": "LE"
         }
       }
-    ],
-    "linearAppraisals": [],
-    "awards": [
-      {
-        "awardCode": "*B",
-        "awardDescription": "*Buck",
-        "awardYear": 2022,
-        "awardCount": 1
-      }
     ]
   },
   {
+    "nickname": "",
     "name": "Leisure Time HD T.R.O.U.B.L.E",
-    "dateOfBirth": "2022-08-20T06:40:19",
+    "description": "",
     "normalizeId": "PD2327518",
+    "dateOfBirth": "2022-08-20T06:40:19",
+    "dateOfDeath": "",
+    "colorAndMarking": "Chocolate Buckskin, Moonspots, Brown Eyes",
     "id": 2327518,
     "sex": "Male",
     "damId": 1472088,
     "sireId": 1882649,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "Chocolate Buckskin, Moonspots, Brown Eyes",
-    "animalTattoo": [
-      {
-        "tattoo": "1LTD",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "P55",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -312,12 +432,44 @@
         "id": 307131
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*B",
         "awardDescription": "*Buck",
         "awardYear": 2023,
         "awardCount": 1
+      }
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [
+      {
+        "location": "1LTD",
+        "description": "RE"
+      },
+      {
+        "location": "P55",
+        "description": "LE"
+      }
+    ],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": [
+      {
+        "tattoo": "1LTD",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "P55",
+        "tattooLocation": {
+          "name": "LE"
+        }
       }
     ]
   }
