@@ -4717,38 +4717,6 @@
     ]
   },
   {
-    "name": "Leisure Time TB Rondine",
-    "dateOfBirth": "2024-03-27T18:50:45",
-    "normalizeId": "PD2375447",
-    "id": 2375447,
-    "sex": "Female",
-    "damId": 2207578,
-    "sireId": 2327518,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "Chocolate Buckskin, Moonspots, Brown Eyes",
-    "animalTattoo": [
-      {
-        "tattoo": "1LTD",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "S20",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002375447",
-    "usdaKey": 2103777,
-    "lactationRecords": [],
-    "awards": []
-  },
-  {
     "name": "Leisure Time BB Faded Bloom",
     "dateOfBirth": "2024-04-04T18:54:54",
     "normalizeId": "PD2375448",
