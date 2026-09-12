@@ -65,48 +65,6 @@
     ]
   },
   {
-    "name": "Leisure Time ZZ GQ",
-    "dateOfBirth": "2018-03-04T00:00:00",
-    "normalizeId": "PD1962239",
-    "id": 1754574,
-    "sex": "Male",
-    "damId": 1487307,
-    "sireId": 1644245,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "Broken Buckskin, Black Spot On Nose, Brown Eyes",
-    "animalTattoo": [
-      {
-        "tattoo": "1LTD",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "K50",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
-    "linearAppraisals": [],
-    "awards": [
-      {
-        "awardCode": "+B (AR)",
-        "awardDescription": "3 AR Does - Different Dams",
-        "awardYear": 2021,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*B",
-        "awardDescription": "*Buck",
-        "awardYear": 2018,
-        "awardCount": 1
-      }
-    ]
-  },
-  {
     "name": "Hetlandcreek GQ Red Hot Magma",
     "dateOfBirth": "2019-06-05T00:00:00",
     "normalizeId": "PD2041616",
