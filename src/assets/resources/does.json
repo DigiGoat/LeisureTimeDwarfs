@@ -5005,38 +5005,6 @@
     "awards": []
   },
   {
-    "name": "Leisure Time TB Maar",
-    "dateOfBirth": "2025-04-13T12:29:47",
-    "normalizeId": "PD2471925",
-    "id": 2471925,
-    "sex": "Female",
-    "damId": 1723846,
-    "sireId": 2327518,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "Chocolate Buckskin, Heavy Moonspots, Brown Eyes",
-    "animalTattoo": [
-      {
-        "tattoo": "1LTD",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "T28",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002471925",
-    "usdaKey": 2201743,
-    "lactationRecords": [],
-    "awards": []
-  },
-  {
     "name": "Leisure Time HD PB Mocha",
     "dateOfBirth": "2025-04-14T12:34:39",
     "normalizeId": "PD2471926",
