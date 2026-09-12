@@ -4877,38 +4877,6 @@
     ]
   },
   {
-    "name": "Leisure Time TL Red Red Rose",
-    "dateOfBirth": "2023-04-28T14:04:32",
-    "normalizeId": "PD2389180",
-    "id": 2389180,
-    "sex": "Female",
-    "damId": 1730922,
-    "sireId": 2207575,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "Buckskin With Roaning, Brown Eyes",
-    "animalTattoo": [
-      {
-        "tattoo": "1LTD",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "R50",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002389180",
-    "usdaKey": 2117868,
-    "lactationRecords": [],
-    "awards": []
-  },
-  {
     "name": "Leisure Time FN Black Pearl",
     "dateOfBirth": "2024-05-28T13:23:41",
     "normalizeId": "PD2419327",
