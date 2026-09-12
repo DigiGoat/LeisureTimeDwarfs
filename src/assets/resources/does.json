@@ -3306,38 +3306,6 @@
     ]
   },
   {
-    "name": "Leisure Time TW Prada",
-    "dateOfBirth": "2021-03-18T13:56:03",
-    "normalizeId": "PD2178962",
-    "id": 2178962,
-    "sex": "Female",
-    "damId": 1517163,
-    "sireId": 1391527,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "Broken Buckskin, Blue Eyes",
-    "animalTattoo": [
-      {
-        "tattoo": "1LTD",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "N15",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002178962",
-    "usdaKey": 1917909,
-    "lactationRecords": [],
-    "awards": []
-  },
-  {
     "name": "Leisure Time PP 65 Corvette",
     "dateOfBirth": "2021-04-19T15:57:07",
     "normalizeId": "PD2207578",
