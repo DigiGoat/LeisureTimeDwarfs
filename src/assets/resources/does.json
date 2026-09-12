@@ -5005,38 +5005,6 @@
     "awards": []
   },
   {
-    "name": "Leisure Time FN Duchess",
-    "dateOfBirth": "2025-04-08T13:53:32",
-    "normalizeId": "PD2460780",
-    "id": 2460780,
-    "sex": "Female",
-    "damId": 2301555,
-    "sireId": 2324928,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "Light Broken Buckskin, Moonspots & Brown Eyes",
-    "animalTattoo": [
-      {
-        "tattoo": "1LTD",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "T23",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002460780",
-    "usdaKey": 2186694,
-    "lactationRecords": [],
-    "awards": []
-  },
-  {
     "name": "Leisure Time TB Pretty Cosmos",
     "dateOfBirth": "2025-03-24T13:58:29",
     "normalizeId": "PD2460781",
