@@ -4909,38 +4909,6 @@
     "awards": []
   },
   {
-    "name": "Leisure Time HD Misty Rain",
-    "dateOfBirth": "2024-03-22T13:30:49",
-    "normalizeId": "PD2419329",
-    "id": 2419329,
-    "sex": "Female",
-    "damId": 1808762,
-    "sireId": 1882649,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "Broken Buckskin, Brown Eyes",
-    "animalTattoo": [
-      {
-        "tattoo": "1LTD",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "S13",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002419329",
-    "usdaKey": 2149768,
-    "lactationRecords": [],
-    "awards": []
-  },
-  {
     "name": "Leisure Time TB LA Dolce Vita",
     "dateOfBirth": "2025-03-25T13:28:47",
     "normalizeId": "PD2443695",
