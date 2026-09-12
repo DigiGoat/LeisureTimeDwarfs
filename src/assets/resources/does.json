@@ -4161,38 +4161,6 @@
     ]
   },
   {
-    "name": "Leisure Time PP Star Fire",
-    "dateOfBirth": "2022-03-15T13:55:22",
-    "normalizeId": "PD2266833",
-    "id": 2266833,
-    "sex": "Female",
-    "damId": 1882689,
-    "sireId": 1643421,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "Light Broken Buckskin",
-    "animalTattoo": [
-      {
-        "tattoo": "1LTD",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "P12",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002266833",
-    "usdaKey": 2017791,
-    "lactationRecords": [],
-    "awards": []
-  },
-  {
     "name": "Leisure Time HD Glamour",
     "dateOfBirth": "2023-02-20T12:58:11",
     "normalizeId": "PD2301555",
