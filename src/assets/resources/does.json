@@ -5005,38 +5005,6 @@
     "awards": []
   },
   {
-    "name": "Leisure Time TB Pretty Cosmos",
-    "dateOfBirth": "2025-03-24T13:58:29",
-    "normalizeId": "PD2460781",
-    "id": 2460781,
-    "sex": "Female",
-    "damId": 2377033,
-    "sireId": 2327518,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "Buckskin, White Poll, Brown Eyes",
-    "animalTattoo": [
-      {
-        "tattoo": "1LTD",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "T7",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002460781",
-    "usdaKey": 2186695,
-    "lactationRecords": [],
-    "awards": []
-  },
-  {
     "name": "Leisure Time Dreamingofsolveig",
     "dateOfBirth": "2025-03-25T12:25:42",
     "normalizeId": "PD2471924",
