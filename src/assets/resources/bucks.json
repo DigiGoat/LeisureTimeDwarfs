@@ -243,61 +243,6 @@
   },
   {
     "nickname": "",
-    "name": "Leisure Time ZZ Mr. Lincoln",
-    "description": "",
-    "normalizeId": "PD2280578",
-    "dateOfBirth": "2022-03-13T11:38:03",
-    "dateOfDeath": "",
-    "colorAndMarking": "Black & White, Brown Eyes",
-    "id": 2280578,
-    "sex": "Male",
-    "damId": 1730922,
-    "sireId": 1644245,
-    "owner": "Kristine Struve-Hagan",
-    "linearAppraisals": [],
-    "pet": false,
-    "price": "",
-    "awards": [
-      {
-        "awardCode": "*B",
-        "awardDescription": "*Buck",
-        "awardYear": 2023,
-        "awardCount": 1
-      }
-    ],
-    "usdaId": "",
-    "usdaKey": 0,
-    "lactationRecords": [],
-    "tattoos": [
-      {
-        "location": "1LTD",
-        "description": "RE"
-      },
-      {
-        "location": "P9",
-        "description": "LE"
-      }
-    ],
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "animalTattoo": [
-      {
-        "tattoo": "1LTD",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "P9",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ]
-  },
-  {
-    "nickname": "",
     "name": "Four Cedars QR Feel The Noize",
     "description": "",
     "normalizeId": "PD2324928",
