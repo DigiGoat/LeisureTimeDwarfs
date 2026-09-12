@@ -5623,5 +5623,66 @@
         }
       }
     ]
+  },
+  {
+    "nickname": "",
+    "name": "Leisure Time ZZ GQ",
+    "description": "",
+    "normalizeId": "PD1962239",
+    "dateOfBirth": "2018-03-04T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "Broken Buckskin, Black Spot On Nose, Brown Eyes",
+    "id": 1754574,
+    "sex": "Male",
+    "damId": 1487307,
+    "sireId": 1644245,
+    "owner": "Kristine Struve-Hagan",
+    "linearAppraisals": [],
+    "pet": false,
+    "price": "",
+    "awards": [
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2018,
+        "awardCount": 1
+      }
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [
+      {
+        "location": "1LTD",
+        "description": "RE"
+      },
+      {
+        "location": "K50",
+        "description": "LE"
+      }
+    ],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": [
+      {
+        "tattoo": "1LTD",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "K50",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ]
   }
 ]
