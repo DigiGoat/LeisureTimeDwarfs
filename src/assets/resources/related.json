@@ -1,59 +1,20 @@
 [
   {
-    "name": "Leisure Time BB Spring Lily",
-    "dateOfBirth": "2024-03-22T11:20:35",
-    "normalizeId": "PD2377033",
-    "id": 2377033,
-    "sex": "Female",
-    "damId": 1730921,
-    "sireId": 2298456,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [],
-    "awards": [
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Protein",
-        "awardYear": 2025,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Butterfat",
-        "awardYear": 2025,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2025,
-        "awardCount": 4
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Milk",
-        "awardYear": 2025,
-        "awardCount": 1
-      }
-    ]
-  },
-  {
+    "nickname": "",
     "name": "Hetlandcreek GQ Bellissima",
-    "dateOfBirth": "2023-06-18T19:43:51",
+    "description": "",
     "normalizeId": "PD2350134",
+    "dateOfBirth": "2023-06-18T19:43:51",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 2350134,
     "sex": "Female",
     "damId": 1301729,
     "sireId": 1754574,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (AR)",
@@ -73,102 +34,29 @@
         "awardYear": 2025,
         "awardCount": 1
       }
-    ]
-  },
-  {
-    "name": "Leisure Time TL Fade...",
-    "dateOfBirth": "2023-03-20T12:40:14",
-    "normalizeId": "PD2349165",
-    "id": 2349165,
-    "sex": "Female",
-    "damId": 2175806,
-    "sireId": 2207575,
-    "ownerAccount": {
-      "displayName": "Hanni Mountain Farm"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": 1,
-        "appraisalDate": "2024-06-13T00:00:00",
-        "generalAppearance": "A",
-        "dairyStrength": "A",
-        "bodyCapacity": "A",
-        "mammarySystem": "A",
-        "finalScore": 77,
-        "isPermanent": false,
-        "id": 324105
-      }
     ],
-    "awards": []
-  },
-  {
-    "name": "Leisure Time VA Daydream ",
-    "dateOfBirth": "2023-03-17T12:36:38",
-    "normalizeId": "PD2349162",
-    "id": 2349162,
-    "sex": "Female",
-    "damId": 2178881,
-    "sireId": 2207576,
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": 1,
-        "appraisalDate": "2024-06-13T00:00:00",
-        "generalAppearance": "G",
-        "dairyStrength": "G",
-        "bodyCapacity": "A",
-        "mammarySystem": "G",
-        "finalScore": 83,
-        "isPermanent": false,
-        "id": 324104
-      }
-    ],
-    "awards": [
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Protein",
-        "awardYear": 2025,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Butterfat",
-        "awardYear": 2025,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Milk",
-        "awardYear": 2025,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2022,
-        "awardCount": 6
-      }
-    ]
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Leisure Time HD T.R.O.U.B.L.E",
-    "dateOfBirth": "2022-08-20T06:40:19",
+    "description": "",
     "normalizeId": "PD2327518",
+    "dateOfBirth": "2022-08-20T06:40:19",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 2327518,
     "sex": "Male",
     "damId": 1472088,
     "sireId": 1882649,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -182,6 +70,8 @@
         "id": 307131
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*B",
@@ -189,22 +79,32 @@
         "awardYear": 2023,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Four Cedars QR Feel The Noize",
-    "dateOfBirth": "2023-05-07T11:58:09",
+    "description": "",
     "normalizeId": "PD2324928",
+    "dateOfBirth": "2023-05-07T11:58:09",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 2324928,
     "sex": "Male",
     "damId": 1755362,
     "sireId": 1794026,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Hanni Mountain Farm",
     "linearAppraisals": [],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*B",
@@ -212,73 +112,58 @@
         "awardYear": 2022,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Leisure Time VA Lil Blackdress",
-    "dateOfBirth": "2023-03-17T13:16:35",
+    "description": "",
     "normalizeId": "PD2301562",
+    "dateOfBirth": "2023-03-17T13:16:35",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 2301562,
     "sex": "Female",
     "damId": 2168550,
     "sireId": 2207576,
+    "owner": "Kristine Struve-Hagan",
+    "linearAppraisals": [],
+    "pet": false,
+    "price": "",
+    "awards": [],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [],
-    "awards": []
+    "animalTattoo": []
   },
   {
-    "name": "Leisure Time HD Glamour",
-    "dateOfBirth": "2023-02-20T12:58:11",
-    "normalizeId": "PD2301555",
-    "id": 2301555,
-    "sex": "Female",
-    "damId": 1487307,
-    "sireId": 1882649,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [],
-    "awards": [
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Protein",
-        "awardYear": 2025,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Butterfat",
-        "awardYear": 2025,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2021,
-        "awardCount": 3
-      }
-    ]
-  },
-  {
+    "nickname": "",
     "name": "TUA Farms FM Back In Black",
-    "dateOfBirth": "2023-02-17T21:10:39",
+    "description": "",
     "normalizeId": "PD2298456",
+    "dateOfBirth": "2023-02-17T21:10:39",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 2298456,
     "sex": "Male",
     "damId": 2161429,
     "sireId": 2247352,
-    "ownerAccount": {
-      "displayName": "Lexi Pryor"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*B",
@@ -286,74 +171,29 @@
         "awardYear": 2022,
         "awardCount": 1
       }
-    ]
-  },
-  {
-    "name": "Leisure Time Let'S Bee Joyful",
-    "dateOfBirth": "2022-04-13T11:51:52",
-    "normalizeId": "PD2256088",
-    "id": 2256088,
-    "sex": "Female",
-    "damId": 1882650,
-    "sireId": 2207575,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": 1,
-        "appraisalDate": "2024-06-13T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "G",
-        "mammarySystem": "V",
-        "finalScore": 86,
-        "isPermanent": false,
-        "id": 324103
-      }
     ],
-    "awards": [
-      {
-        "awardCode": "*M (ST)",
-        "awardDescription": "*Milker Owner Sample (Protein)",
-        "awardYear": 2025,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (ST)",
-        "awardDescription": "*Milker Owner Sample (Butterfat)",
-        "awardYear": 2025,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2025,
-        "awardCount": 5
-      },
-      {
-        "awardCode": "*M (ST)",
-        "awardDescription": "*Milker Owner Sample (Milk)",
-        "awardYear": 2025,
-        "awardCount": 1
-      }
-    ]
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Lexi Pryor"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Leisure Time GQ Fine Jewels",
-    "dateOfBirth": "2022-03-20T12:38:43",
+    "description": "",
     "normalizeId": "PD2231574",
+    "dateOfBirth": "2022-03-20T12:38:43",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 2231574,
     "sex": "Female",
     "damId": 1487302,
     "sireId": 1754574,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": 2,
@@ -378,6 +218,8 @@
         "id": 306543
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (AR)",
@@ -403,44 +245,29 @@
         "awardYear": 2020,
         "awardCount": 4
       }
-    ]
-  },
-  {
-    "name": "Leisure Time GQ Jump For Joy",
-    "dateOfBirth": "2022-03-20T12:25:45",
-    "normalizeId": "PD2231572",
-    "id": 2231572,
-    "sex": "Male",
-    "damId": 1487302,
-    "sireId": 1754574,
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [],
-    "awards": [
-      {
-        "awardCode": "*B",
-        "awardDescription": "*Buck",
-        "awardYear": 2022,
-        "awardCount": 1
-      }
-    ]
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Leisure Time PP Cinder",
-    "dateOfBirth": "2022-03-15T12:20:21",
+    "description": "",
     "normalizeId": "PD2231570",
+    "dateOfBirth": "2022-03-15T12:20:21",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 2231570,
     "sex": "Female",
     "damId": 1882689,
     "sireId": 1643421,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": 1,
@@ -454,6 +281,8 @@
         "id": 306542
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (AR)",
@@ -479,114 +308,32 @@
         "awardYear": 2025,
         "awardCount": 1
       }
-    ]
-  },
-  {
-    "name": "Leisure Time GQ Kohala",
-    "dateOfBirth": "2022-03-11T12:11:49",
-    "normalizeId": "PD2231568",
-    "id": 2231568,
-    "sex": "Female",
-    "damId": 1723846,
-    "sireId": 1754574,
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": 1,
-        "appraisalDate": "2024-06-13T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "V",
-        "finalScore": 86,
-        "isPermanent": false,
-        "id": 324101
-      }
-    ],
-    "awards": [
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Protein",
-        "awardYear": 2025,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Butterfat",
-        "awardYear": 2025,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Milk",
-        "awardYear": 2025,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2021,
-        "awardCount": 7
-      }
-    ]
+    "animalTattoo": []
   },
   {
-    "name": "Leisure Time PP 65 Corvette",
-    "dateOfBirth": "2021-04-19T15:57:07",
-    "normalizeId": "PD2207578",
-    "id": 2207578,
-    "sex": "Female",
-    "damId": 1487307,
-    "sireId": 1643421,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": 2,
-        "appraisalDate": "2024-06-13T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "V",
-        "finalScore": 86,
-        "isPermanent": false,
-        "id": 324109
-      },
-      {
-        "lactationNumber": 1,
-        "appraisalDate": "2023-07-31T00:00:00",
-        "generalAppearance": "G",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "G",
-        "finalScore": 85,
-        "isPermanent": false,
-        "id": 306148
-      }
-    ],
-    "awards": []
-  },
-  {
+    "nickname": "",
     "name": "Leisure Time TW Volcanic Ash",
-    "dateOfBirth": "2021-04-17T15:48:00",
+    "description": "",
     "normalizeId": "PD2207576",
+    "dateOfBirth": "2021-04-17T15:48:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 2207576,
     "sex": "Male",
     "damId": 1723846,
     "sireId": 1391527,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*B",
@@ -594,37 +341,29 @@
         "awardYear": 2022,
         "awardCount": 1
       }
-    ]
-  },
-  {
-    "name": "Leisure Time ST Tiger L Vis?",
-    "dateOfBirth": "2021-03-20T15:40:54",
-    "normalizeId": "PD2207575",
-    "id": 2207575,
-    "sex": "Male",
-    "damId": 1730921,
-    "sireId": 1517170,
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [],
-    "awards": []
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Leisure Time ZZ Black Baccara",
-    "dateOfBirth": "2021-03-23T07:10:38",
+    "description": "",
     "normalizeId": "PD2178881",
+    "dateOfBirth": "2021-03-23T07:10:38",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 2178881,
     "sex": "Female",
     "damId": 1730922,
     "sireId": 1644245,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Lexi Pryor",
     "linearAppraisals": [
       {
         "lactationNumber": 3,
@@ -649,6 +388,8 @@
         "id": 305674
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (AR)",
@@ -674,97 +415,29 @@
         "awardYear": 2021,
         "awardCount": 5
       }
-    ]
-  },
-  {
-    "name": "Leisure Time GQ Faerie Mist",
-    "dateOfBirth": "2021-03-20T00:00:00",
-    "normalizeId": "PD2175806",
-    "id": 2175806,
-    "sex": "Female",
-    "damId": 1643420,
-    "sireId": 1754574,
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": 3,
-        "appraisalDate": "2024-06-13T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "E",
-        "mammarySystem": "V",
-        "finalScore": 86,
-        "isPermanent": false,
-        "id": 324107
-      },
-      {
-        "lactationNumber": 2,
-        "appraisalDate": "2023-07-31T00:00:00",
-        "generalAppearance": "G",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "V",
-        "finalScore": 87,
-        "isPermanent": false,
-        "id": 305592
-      }
-    ],
-    "awards": [
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Protein",
-        "awardYear": 2025,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Butterfat",
-        "awardYear": 2025,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Milk",
-        "awardYear": 2025,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (ST)",
-        "awardDescription": "*Milker Owner Sample (Protein)",
-        "awardYear": 2022,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (ST)",
-        "awardDescription": "*Milker Owner Sample (Butterfat)",
-        "awardYear": 2022,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2021,
-        "awardCount": 4
-      }
-    ]
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Leisure Time ZZ Mississippi",
-    "dateOfBirth": "2020-05-07T00:00:00",
+    "description": "",
     "normalizeId": "PD2168550",
+    "dateOfBirth": "2020-05-07T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 2168550,
     "sex": "Female",
     "damId": 1643395,
     "sireId": 1644245,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": 3,
@@ -789,6 +462,8 @@
         "id": 286527
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (AR)",
@@ -808,21 +483,29 @@
         "awardYear": 2020,
         "awardCount": 5
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Leisure Time HM Fiery Ember",
-    "dateOfBirth": "2020-04-05T00:00:00",
+    "description": "",
     "normalizeId": "PD2090211",
+    "dateOfBirth": "2020-04-05T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1882689,
     "sex": "Female",
     "damId": 1808762,
     "sireId": 1834014,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": 3,
@@ -847,6 +530,8 @@
         "id": 286132
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M",
@@ -860,86 +545,32 @@
         "awardYear": 2021,
         "awardCount": 1
       }
-    ]
-  },
-  {
-    "name": "Leisure Time ZZ Jubilation",
-    "dateOfBirth": "2020-03-23T00:00:00",
-    "normalizeId": "PD2090172",
-    "id": 1882650,
-    "sex": "Female",
-    "damId": 1487302,
-    "sireId": 1644245,
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": 3,
-        "appraisalDate": "2023-07-31T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "E",
-        "finalScore": 91,
-        "isPermanent": false,
-        "id": 304407
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2021-08-11T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "V",
-        "bodyCapacity": "+",
-        "mammarySystem": "+",
-        "finalScore": 83,
-        "isPermanent": false,
-        "id": 286128
-      }
-    ],
-    "awards": [
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2021,
-        "awardCount": 4
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Protein",
-        "awardYear": 2021,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Butterfat",
-        "awardYear": 2021,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Milk",
-        "awardYear": 2021,
-        "awardCount": 1
-      }
-    ]
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Leisure Time ZZ Happy Days",
-    "dateOfBirth": "2020-03-23T00:00:00",
+    "description": "",
     "normalizeId": "PD2090171",
+    "dateOfBirth": "2020-03-23T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1882649,
     "sex": "Male",
     "damId": 1487302,
     "sireId": 1644245,
-    "ownerAccount": {
-      "displayName": "Glimfeather Farms"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "+B (AR)",
@@ -953,22 +584,32 @@
         "awardYear": 2020,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Glimfeather Farms"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Hetlandcreek GQ Red Hot Magma",
-    "dateOfBirth": "2019-06-05T00:00:00",
+    "description": "",
     "normalizeId": "PD2041616",
+    "dateOfBirth": "2019-06-05T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1834014,
     "sex": "Male",
     "damId": 1723846,
     "sireId": 1754574,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*B",
@@ -976,21 +617,29 @@
         "awardYear": 2020,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "GCH Leisure Time SetFireToThe Rain",
-    "dateOfBirth": "2019-03-08T00:00:00",
+    "description": "",
     "normalizeId": "PD2016405",
+    "dateOfBirth": "2019-03-08T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1808762,
     "sex": "Female",
     "damId": 1472088,
     "sireId": 1754574,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": 4,
@@ -1015,6 +664,8 @@
         "id": 285466
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (ST)",
@@ -1064,22 +715,32 @@
         "awardYear": 2020,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Cuatlilredbarn Quiet Riot",
-    "dateOfBirth": "2019-01-05T00:00:00",
+    "description": "",
     "normalizeId": "PD2001691",
+    "dateOfBirth": "2019-01-05T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1794026,
     "sex": "Male",
     "damId": 1441532,
     "sireId": 1726677,
-    "ownerAccount": {
-      "displayName": "Bentley Carter"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*B",
@@ -1087,21 +748,29 @@
         "awardYear": 2019,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Bentley Carter"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Four Cedars BR Lilla Flicka",
-    "dateOfBirth": "2018-03-29T00:00:00",
+    "description": "",
     "normalizeId": "PD1963027",
+    "dateOfBirth": "2018-03-29T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1755362,
     "sex": "Female",
     "damId": 1590454,
     "sireId": 1466772,
-    "ownerAccount": {
-      "displayName": "Alex & Marsha Hickman"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": 4,
@@ -1126,6 +795,8 @@
         "id": 285100
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (AR)",
@@ -1163,22 +834,32 @@
         "awardYear": 2020,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Alex & Marsha Hickman"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Leisure Time ZZ GQ",
-    "dateOfBirth": "2018-03-04T00:00:00",
+    "description": "",
     "normalizeId": "PD1962239",
+    "dateOfBirth": "2018-03-04T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1754574,
     "sex": "Male",
     "damId": 1487307,
     "sireId": 1644245,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "+B (AR)",
@@ -1192,21 +873,29 @@
         "awardYear": 2018,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Leisure Time SC KissFromA Rose",
-    "dateOfBirth": "2018-03-04T00:00:00",
+    "description": "",
     "normalizeId": "PD1938607",
+    "dateOfBirth": "2018-03-04T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1730922,
     "sex": "Female",
     "damId": 1589660,
     "sireId": 1517162,
-    "ownerAccount": {
-      "displayName": "Robin Kraatz"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": 5,
@@ -1242,6 +931,8 @@
         "id": 270345
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (ST)",
@@ -1285,21 +976,29 @@
         "awardYear": 2020,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Robin Kraatz"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Leisure Time ZZ Tigerlily ",
-    "dateOfBirth": "2018-03-05T00:00:00",
+    "description": "",
     "normalizeId": "PD1938606",
+    "dateOfBirth": "2018-03-05T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1730921,
     "sex": "Female",
     "damId": 1517160,
     "sireId": 1644245,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": 3,
@@ -1324,6 +1023,8 @@
         "id": 284939
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M",
@@ -1343,21 +1044,29 @@
         "awardYear": 2021,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "SG Leisure Time ZZ Scandalous ",
-    "dateOfBirth": "2018-02-25T00:00:00",
+    "description": "",
     "normalizeId": "PD1938605",
+    "dateOfBirth": "2018-02-25T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1730920,
     "sex": "Female",
     "damId": 1472088,
     "sireId": 1644245,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": 6,
@@ -1404,6 +1113,8 @@
         "id": 276021
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (ST)",
@@ -1459,21 +1170,29 @@
         "awardYear": 2020,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Hetlandcreek ILM Vesuvius",
-    "dateOfBirth": "2018-03-17T00:00:00",
+    "description": "",
     "normalizeId": "PD1931531",
+    "dateOfBirth": "2018-03-17T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1723846,
     "sex": "Female",
     "damId": 1301729,
     "sireId": 1466770,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": 5,
@@ -1509,6 +1228,8 @@
         "id": 269654
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (ST)",
@@ -1558,21 +1279,29 @@
         "awardYear": 2020,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Hetlandcreek Sharp Dressed Man",
-    "dateOfBirth": "2017-04-03T00:00:00",
+    "description": "",
     "normalizeId": "PD1851930",
+    "dateOfBirth": "2017-04-03T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1644245,
     "sex": "Male",
     "damId": 1410083,
     "sireId": 1466770,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -1586,6 +1315,8 @@
         "id": 260609
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "++B (AR)",
@@ -1611,21 +1342,29 @@
         "awardYear": 2020,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "CH Leisure Time TW Peter Pan",
-    "dateOfBirth": "2017-02-28T00:00:00",
+    "description": "",
     "normalizeId": "PD1851106",
+    "dateOfBirth": "2017-02-28T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1643421,
     "sex": "Male",
     "damId": 1472095,
     "sireId": 1391527,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Glimfeather Farms",
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -1650,6 +1389,8 @@
         "id": 260607
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "CH",
@@ -1663,21 +1404,29 @@
         "awardYear": 2017,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Leisure Time TW Pixie Dust",
-    "dateOfBirth": "2017-02-28T00:00:00",
+    "description": "",
     "normalizeId": "PD1851105",
+    "dateOfBirth": "2017-02-28T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1643420,
     "sex": "Female",
     "damId": 1472095,
     "sireId": 1391527,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": 6,
@@ -1724,6 +1473,8 @@
         "id": 260606
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (ST)",
@@ -1767,21 +1518,29 @@
         "awardYear": 2018,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "SG Leisure Time MS Southern Charm",
-    "dateOfBirth": "2017-02-26T00:00:00",
+    "description": "",
     "normalizeId": "PD1851080",
+    "dateOfBirth": "2017-02-26T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1643395,
     "sex": "Female",
     "damId": 1487302,
     "sireId": 1420081,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -1817,6 +1576,8 @@
         "id": 260605
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (ST)",
@@ -1866,21 +1627,29 @@
         "awardYear": 2018,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Leisure Time TW Smooth Jazz",
-    "dateOfBirth": "2016-05-04T00:00:00",
+    "description": "",
     "normalizeId": "PD1797445",
+    "dateOfBirth": "2016-05-04T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1589660,
     "sex": "Female",
     "damId": 1517164,
     "sireId": 1391527,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Bentley Carter",
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -1916,6 +1685,8 @@
         "id": 260604
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (ST)",
@@ -1965,21 +1736,29 @@
         "awardYear": 2018,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Leisure Time GL Satyr ",
-    "dateOfBirth": "2015-04-15T00:00:00",
+    "description": "",
     "normalizeId": "PD1725045",
+    "dateOfBirth": "2015-04-15T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1517170,
     "sex": "Male",
     "damId": 1472095,
     "sireId": 1475551,
-    "ownerAccount": {
-      "displayName": ""
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Alex & Marsha Hickman",
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -2004,6 +1783,8 @@
         "id": 244928
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*B",
@@ -2011,21 +1792,29 @@
         "awardYear": 2019,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Leisure Time TT Nina Samone",
-    "dateOfBirth": "2015-03-11T00:00:00",
+    "description": "",
     "normalizeId": "PD1725039",
+    "dateOfBirth": "2015-03-11T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1517164,
     "sex": "Female",
     "damId": 1438177,
     "sireId": 1423445,
-    "ownerAccount": {
-      "displayName": ""
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": 2,
@@ -2050,6 +1839,8 @@
         "id": 244924
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M",
@@ -2075,107 +1866,29 @@
         "awardYear": 2017,
         "awardCount": 1
       }
-    ]
-  },
-  {
-    "name": "Leisure Time TT Silversn Style",
-    "dateOfBirth": "2015-03-08T00:00:00",
-    "normalizeId": "PD1725038",
-    "id": 1517163,
-    "sex": "Female",
-    "damId": 1420923,
-    "sireId": 1423445,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2019-06-18T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "V",
-        "finalScore": 86,
-        "isPermanent": false,
-        "id": 270340
-      },
-      {
-        "lactationNumber": 3,
-        "appraisalDate": "2018-07-20T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "+",
-        "bodyCapacity": "E",
-        "mammarySystem": "V",
-        "finalScore": 85,
-        "isPermanent": false,
-        "id": 260598
-      },
-      {
-        "lactationNumber": 2,
-        "appraisalDate": "2017-06-07T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "V",
-        "finalScore": 88,
-        "isPermanent": false,
-        "id": 250476
-      },
-      {
-        "lactationNumber": 1,
-        "appraisalDate": "2016-09-01T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "V",
-        "bodyCapacity": "E",
-        "mammarySystem": "+",
-        "finalScore": 84,
-        "isPermanent": false,
-        "id": 244923
-      }
     ],
-    "awards": [
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2016,
-        "awardCount": 3
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Protein",
-        "awardYear": 2016,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Butterfat",
-        "awardYear": 2016,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Milk",
-        "awardYear": 2016,
-        "awardCount": 1
-      }
-    ]
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Leisure Time HB She'S A Daisy",
-    "dateOfBirth": "2015-03-05T00:00:00",
+    "description": "",
     "normalizeId": "PD1725035",
+    "dateOfBirth": "2015-03-05T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1517160,
     "sex": "Female",
     "damId": 1350500,
     "sireId": 1438166,
-    "ownerAccount": {
-      "displayName": "Acacia Howell"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Robin Kraatz",
     "linearAppraisals": [
       {
         "lactationNumber": 2,
@@ -2200,6 +1913,8 @@
         "id": 244922
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M",
@@ -2225,21 +1940,29 @@
         "awardYear": 2017,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Acacia Howell"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Leisure Time SophisticatedLady",
-    "dateOfBirth": "2014-06-20T00:00:00",
+    "description": "",
     "normalizeId": "PD1695221",
+    "dateOfBirth": "2014-06-20T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1487307,
     "sex": "Female",
     "damId": 1438177,
     "sireId": 1438166,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -2286,6 +2009,8 @@
         "id": 244921
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (ST)",
@@ -2329,21 +2054,29 @@
         "awardYear": 2016,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "SGCH Leisure Time TW Silver Joy",
-    "dateOfBirth": "2014-06-02T00:00:00",
+    "description": "",
     "normalizeId": "PD1695216",
+    "dateOfBirth": "2014-06-02T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1487302,
     "sex": "Female",
     "damId": 1420923,
     "sireId": 1391527,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -2390,6 +2123,8 @@
         "id": 244920
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (ST)",
@@ -2463,21 +2198,29 @@
         "awardYear": 2016,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Leisure Time Oh Tinker Belle",
-    "dateOfBirth": "2014-02-18T00:00:00",
+    "description": "",
     "normalizeId": "PD1680041",
+    "dateOfBirth": "2014-02-18T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1472095,
     "sex": "Female",
     "damId": 1349137,
     "sireId": 1327058,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": 3,
@@ -2513,6 +2256,8 @@
         "id": 226642
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (ST)",
@@ -2544,21 +2289,29 @@
         "awardYear": 2016,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "SGCH Leisure Time TW MoondustMayhem",
-    "dateOfBirth": "2014-04-06T00:00:00",
+    "description": "",
     "normalizeId": "PD1680034",
+    "dateOfBirth": "2014-04-06T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1472088,
     "sex": "Female",
     "damId": 1426554,
     "sireId": 1391527,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": 4,
@@ -2605,6 +2358,8 @@
         "id": 226646
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (ST)",
@@ -2678,22 +2433,32 @@
         "awardYear": 2015,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Alethia ET I'M A Love Machine",
-    "dateOfBirth": "2014-02-01T00:00:00",
+    "description": "",
     "normalizeId": "PD1674729",
+    "dateOfBirth": "2014-02-01T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1466770,
     "sex": "Male",
     "damId": 1379888,
     "sireId": 1395894,
-    "ownerAccount": {
-      "displayName": "Denise Hetland"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*B",
@@ -2713,21 +2478,29 @@
         "awardYear": 2020,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Denise Hetland"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Poppy Patch HB Jazzy",
-    "dateOfBirth": "2013-05-14T00:00:00",
+    "description": "",
     "normalizeId": "PD1646238",
+    "dateOfBirth": "2013-05-14T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1438177,
     "sex": "Female",
     "damId": 1345298,
     "sireId": 1270743,
-    "ownerAccount": {
-      "displayName": "Paul Wilhelm"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": 2,
@@ -2752,6 +2525,8 @@
         "id": 220186
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (ST)",
@@ -2783,22 +2558,29 @@
         "awardYear": 2014,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Paul Wilhelm"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Poppy Patch HB Honey Bear",
+    "description": "",
+    "normalizeId": "PD1646227",
     "dateOfBirth": "2013-04-22T00:00:00",
     "dateOfDeath": "2022-02-12T11:11:54",
-    "normalizeId": "PD1646227",
+    "colorAndMarking": "",
     "id": 1438166,
     "sex": "Male",
     "damId": 1315503,
     "sireId": 1270743,
-    "ownerAccount": {
-      "displayName": "Dixie Davis"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -2834,6 +2616,8 @@
         "id": 220185
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*B",
@@ -2847,21 +2631,29 @@
         "awardYear": 2017,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Dixie Davis"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "SG Pholia Farm Moonlaced ByDesign",
-    "dateOfBirth": "2013-03-10T00:00:00",
+    "description": "",
     "normalizeId": "PD1634628",
+    "dateOfBirth": "2013-03-10T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1426554,
     "sex": "Female",
     "damId": 1330247,
     "sireId": 1367650,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": 5,
@@ -2919,6 +2711,8 @@
         "id": 220182
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "SG",
@@ -2950,102 +2744,29 @@
         "awardYear": 2014,
         "awardCount": 1
       }
-    ]
-  },
-  {
-    "name": "Alethia DJ Triton",
-    "dateOfBirth": "2013-03-16T00:00:00",
-    "dateOfDeath": "2022-06-16T17:57:59",
-    "normalizeId": "PD1631527",
-    "id": 1423445,
-    "sex": "Male",
-    "damId": 1169319,
-    "sireId": 1148220,
-    "ownerAccount": {
-      "displayName": "Pia Wood"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2018-05-06T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "V",
-        "mammarySystem": null,
-        "finalScore": 88,
-        "isPermanent": true,
-        "id": 257331
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2016-09-01T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": null,
-        "finalScore": 83,
-        "isPermanent": false,
-        "id": 246887
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2015-06-02T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "E",
-        "bodyCapacity": "V",
-        "mammarySystem": null,
-        "finalScore": 85,
-        "isPermanent": false,
-        "id": 226591
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2014-08-23T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "+",
-        "bodyCapacity": "+",
-        "mammarySystem": null,
-        "finalScore": 82,
-        "isPermanent": false,
-        "id": 220216
-      }
     ],
-    "awards": [
-      {
-        "awardCode": "+B (ST)",
-        "awardDescription": "1 ST Buck And 2 AR/ST Does",
-        "awardYear": 2019,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "+B (AR)",
-        "awardDescription": "3 AR Does - Different Dams",
-        "awardYear": 2016,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*B",
-        "awardDescription": "*Buck",
-        "awardYear": 2013,
-        "awardCount": 1
-      }
-    ]
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "SG Leisure Time CF Silver Bell",
-    "dateOfBirth": "2013-03-16T00:00:00",
+    "description": "",
     "normalizeId": "PD1629011",
+    "dateOfBirth": "2013-03-16T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1420923,
     "sex": "Female",
     "damId": 1349137,
     "sireId": 1331397,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "",
     "linearAppraisals": [
       {
         "lactationNumber": 2,
@@ -3070,6 +2791,8 @@
         "id": 220183
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "SG",
@@ -3101,22 +2824,29 @@
         "awardYear": 2014,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "SG Pholia Farm RD Moonshine",
+    "description": "",
+    "normalizeId": "PD1628169",
     "dateOfBirth": "2013-03-10T00:00:00",
     "dateOfDeath": "2018-02-03T00:00:00",
-    "normalizeId": "PD1628169",
+    "colorAndMarking": "",
     "id": 1420081,
     "sex": "Male",
     "damId": 1330247,
     "sireId": 1367650,
-    "ownerAccount": {
-      "displayName": ""
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "",
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -3163,6 +2893,8 @@
         "id": 220215
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "SG",
@@ -3181,118 +2913,30 @@
         "awardDescription": "*Buck",
         "awardYear": 2013,
         "awardCount": 1
-      }
-    ]
-  },
-  {
-    "name": "SGCH Engylskye Countof Monte Cristo",
-    "dateOfBirth": "2013-02-12T00:00:00",
-    "dateOfDeath": "2022-08-12T22:23:45",
-    "normalizeId": "PN1627106",
-    "id": 1419018,
-    "sex": "Male",
-    "damId": 1202642,
-    "sireId": 1287767,
-    "ownerAccount": {
-      "displayName": "Judith A Bevaart"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2016-08-28T00:00:00",
-        "generalAppearance": "E",
-        "dairyStrength": "E",
-        "bodyCapacity": "V",
-        "mammarySystem": null,
-        "finalScore": 90,
-        "isPermanent": false,
-        "id": 244812
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2014-08-20T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "+",
-        "mammarySystem": null,
-        "finalScore": 88,
-        "isPermanent": false,
-        "id": 220232
       }
     ],
-    "awards": [
-      {
-        "awardCode": "++B (AR)",
-        "awardDescription": "3 AR Does And 2 AR Bucks",
-        "awardYear": 2021,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "+B (AR)",
-        "awardDescription": "2 AR Bucks",
-        "awardYear": 2021,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "SGCH",
-        "awardDescription": "Superior Genetics Grand Champion",
-        "awardYear": 2017,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "GCH",
-        "awardDescription": "Grand Champion",
-        "awardYear": 2017,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "CH",
-        "awardDescription": "Champion",
-        "awardYear": 2017,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "+B (ST)",
-        "awardDescription": "1 AR Buck And 2 AR/ST Does",
-        "awardYear": 2017,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "+B (AR)",
-        "awardDescription": "3 AR Does - Different Dams",
-        "awardYear": 2016,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "SG",
-        "awardDescription": "Superior Genetics",
-        "awardYear": 2016,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*B",
-        "awardDescription": "*Buck",
-        "awardYear": 2013,
-        "awardCount": 1
-      }
-    ]
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Algedi Farm CK Seirene Song",
+    "description": "",
+    "normalizeId": "PD1618182",
     "dateOfBirth": "2012-05-18T00:00:00",
     "dateOfDeath": "2018-03-11T00:00:00",
-    "normalizeId": "PD1618182",
+    "colorAndMarking": "",
     "id": 1410083,
     "sex": "Female",
     "damId": 1197712,
     "sireId": 1314577,
-    "ownerAccount": {
-      "displayName": ""
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": 2,
@@ -3317,18 +2961,20 @@
         "id": 220213
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2017,
+        "awardCount": 6
+      },
       {
         "awardCode": "*M (AR)",
         "awardDescription": "*Milker (AR) Milk",
         "awardYear": 2015,
         "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2014,
-        "awardCount": 6
       },
       {
         "awardCode": "*M (AR)",
@@ -3342,21 +2988,29 @@
         "awardYear": 2014,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "GCH Leisure Time CF The Works",
-    "dateOfBirth": "2012-04-19T00:00:00",
+    "description": "",
     "normalizeId": "PD1599690",
+    "dateOfBirth": "2012-04-19T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1391527,
     "sex": "Male",
     "damId": 1361501,
     "sireId": 1331397,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Acacia Howell",
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -3425,6 +3079,8 @@
         "id": 206591
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "GCH",
@@ -3450,22 +3106,29 @@
         "awardYear": 2016,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "SG Sugar Moon Rocky Dolby",
+    "description": "",
+    "normalizeId": "PD1575828",
     "dateOfBirth": "2011-02-11T00:00:00",
     "dateOfDeath": "2018-03-14T00:00:00",
-    "normalizeId": "PD1575828",
+    "colorAndMarking": "",
     "id": 1367650,
     "sex": "Male",
     "damId": 1222416,
     "sireId": 1181006,
-    "ownerAccount": {
-      "displayName": ""
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -3479,6 +3142,8 @@
         "id": 246344
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "++B (AR)",
@@ -3516,21 +3181,29 @@
         "awardYear": 2011,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Poppy Patch BR Blu Gypsy Angel",
-    "dateOfBirth": "2011-05-01T00:00:00",
+    "description": "",
     "normalizeId": "PD1569684",
+    "dateOfBirth": "2011-05-01T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1361501,
     "sex": "Female",
     "damId": 1315508,
     "sireId": 1315501,
-    "ownerAccount": {
-      "displayName": "Swift Kids"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": 4,
@@ -3566,6 +3239,8 @@
         "id": 200458
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (ST)",
@@ -3597,144 +3272,29 @@
         "awardYear": 2013,
         "awardCount": 1
       }
-    ]
-  },
-  {
-    "name": "AGS Rosasharn TL Thunderbird",
-    "dateOfBirth": "2008-07-16T00:00:00",
-    "dateOfDeath": "2017-04-20T00:00:00",
-    "normalizeId": "PD1558706",
-    "id": 1350498,
-    "sex": "Male",
-    "damId": 1253281,
-    "sireId": 1110564,
-    "ownerAccount": {
-      "displayName": ""
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [],
-    "awards": []
-  },
-  {
-    "name": "SG The Blue Laced Bella",
-    "dateOfBirth": "2010-04-08T00:00:00",
-    "dateOfDeath": "2021-09-03T11:42:52",
-    "normalizeId": "PD1557347",
-    "id": 1349137,
-    "sex": "Female",
-    "damId": 1320127,
-    "sireId": 1320125,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": 3,
-        "appraisalDate": "2014-08-23T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "V",
-        "finalScore": 89,
-        "isPermanent": false,
-        "id": 220179
-      },
-      {
-        "lactationNumber": 2,
-        "appraisalDate": "2013-06-18T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "E",
-        "mammarySystem": "V",
-        "finalScore": 86,
-        "isPermanent": false,
-        "id": 206586
-      },
-      {
-        "lactationNumber": 1,
-        "appraisalDate": "2012-08-19T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "V",
-        "finalScore": 87,
-        "isPermanent": false,
-        "id": 200455
-      }
     ],
-    "awards": [
-      {
-        "awardCode": "*M (ST)",
-        "awardDescription": "*Milker (ST) Milker (Progeny)",
-        "awardYear": 2015,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "SG",
-        "awardDescription": "Superior Genetics",
-        "awardYear": 2014,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2012,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Protein",
-        "awardYear": 2012,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Butterfat",
-        "awardYear": 2012,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Milk",
-        "awardYear": 2013,
-        "awardCount": 1
-      }
-    ]
-  },
-  {
-    "name": "Honey Goat Octavia",
-    "dateOfBirth": "2010-04-06T00:00:00",
-    "dateOfDeath": "2022-08-25T21:40:30",
-    "normalizeId": "PD1545932",
-    "id": 1337712,
-    "sex": "Female",
-    "damId": 1325038,
-    "sireId": 1217865,
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
     "ownerAccount": {
-      "displayName": ""
+      "displayName": "Swift Kids"
     },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [],
-    "awards": []
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "AGS Take Heart Cabin Fever",
+    "description": "",
+    "normalizeId": "PD1539629",
     "dateOfBirth": "2008-03-27T00:00:00",
     "dateOfDeath": "2012-11-18T00:00:00",
-    "normalizeId": "PD1539629",
+    "colorAndMarking": "",
     "id": 1331397,
     "sex": "Male",
     "damId": 1269970,
     "sireId": 1329987,
-    "ownerAccount": {
-      "displayName": ""
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -3748,6 +3308,8 @@
         "id": 204144
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "+B (ST)",
@@ -3761,21 +3323,29 @@
         "awardYear": 2014,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "SG Pholia Farm DN Martha",
-    "dateOfBirth": "2010-04-22T00:00:00",
+    "description": "",
     "normalizeId": "PD1538482",
+    "dateOfBirth": "2010-04-22T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1330247,
     "sex": "Female",
     "damId": 1133386,
     "sireId": 1230370,
-    "ownerAccount": {
-      "displayName": "Heidi Harris"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -3800,6 +3370,8 @@
         "id": 197027
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "SG",
@@ -3831,51 +3403,29 @@
         "awardYear": 2012,
         "awardCount": 1
       }
-    ]
-  },
-  {
-    "name": "Rosasharn BH Oh Henry",
-    "dateOfBirth": "2010-03-29T00:00:00",
-    "dateOfDeath": "2014-08-14T00:00:00",
-    "normalizeId": "PD1535296",
-    "id": 1327058,
-    "sex": "Male",
-    "damId": 1135827,
-    "sireId": 1279935,
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
     "ownerAccount": {
-      "displayName": ""
+      "displayName": "Heidi Harris"
     },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [],
-    "awards": [
-      {
-        "awardCode": "+B (AR)",
-        "awardDescription": "3 AR Does - Different Dams",
-        "awardYear": 2016,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*B",
-        "awardDescription": "*Buck",
-        "awardYear": 2011,
-        "awardCount": 1
-      }
-    ]
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "GCH Algedi Farm MH Andante",
-    "dateOfBirth": "2010-03-23T00:00:00",
+    "description": "",
     "normalizeId": "PD1510022",
+    "dateOfBirth": "2010-03-23T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1301729,
     "sex": "Female",
     "damId": 1231758,
     "sireId": 1270741,
-    "ownerAccount": {
-      "displayName": "Denise Hetland"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Denise Hetland",
     "linearAppraisals": [
       {
         "lactationNumber": 5,
@@ -3900,6 +3450,8 @@
         "id": 226362
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (ST)",
@@ -3908,151 +3460,67 @@
         "awardCount": 1
       },
       {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Milk",
-        "awardYear": 2017,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "GCH",
-        "awardDescription": "Grand Champion",
-        "awardYear": 2017,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "CH",
-        "awardDescription": "Champion",
-        "awardYear": 2017,
-        "awardCount": 1
-      },
-      {
         "awardCode": "*M",
         "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2015,
+        "awardYear": 2019,
         "awardCount": 5
       },
       {
         "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Protein",
-        "awardYear": 2015,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Butterfat",
-        "awardYear": 2015,
-        "awardCount": 1
-      }
-    ]
-  },
-  {
-    "name": "GCH My-Enchanted-Acres Molly Brown",
-    "dateOfBirth": "2008-02-26T00:00:00",
-    "dateOfDeath": "2022-04-22T09:55:48",
-    "normalizeId": "PN1437504",
-    "id": 1229057,
-    "sex": "Female",
-    "damId": 1129068,
-    "sireId": 1043912,
-    "ownerAccount": {
-      "displayName": "Kim Puzio"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": 5,
-        "appraisalDate": "2015-06-08T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "E",
-        "finalScore": 90,
-        "isPermanent": true,
-        "id": 226766
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2014-08-24T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "V",
-        "finalScore": 89,
-        "isPermanent": false,
-        "id": 220428
-      },
-      {
-        "lactationNumber": 1,
-        "appraisalDate": "2010-08-25T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "V",
-        "finalScore": 89,
-        "isPermanent": false,
-        "id": 184424
-      }
-    ],
-    "awards": [
-      {
-        "awardCode": "*M (ST)",
-        "awardDescription": "*Milker (ST) Milker (Progeny)",
-        "awardYear": 2016,
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2017,
         "awardCount": 1
       },
       {
         "awardCode": "GCH",
         "awardDescription": "Grand Champion",
-        "awardYear": 2012,
+        "awardYear": 2017,
         "awardCount": 1
       },
       {
         "awardCode": "CH",
         "awardDescription": "Champion",
-        "awardYear": 2012,
+        "awardYear": 2017,
         "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2010,
-        "awardCount": 7
       },
       {
         "awardCode": "*M (AR)",
         "awardDescription": "*Milker (AR) Protein",
-        "awardYear": 2010,
+        "awardYear": 2015,
         "awardCount": 1
       },
       {
         "awardCode": "*M (AR)",
         "awardDescription": "*Milker (AR) Butterfat",
-        "awardYear": 2010,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Milk",
-        "awardYear": 2011,
+        "awardYear": 2015,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Denise Hetland"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "TUA Farms BB Fortissimo",
-    "dateOfBirth": "2022-02-06T22:43:52",
+    "description": "",
     "normalizeId": "PD2247352",
+    "dateOfBirth": "2022-02-06T22:43:52",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 2247352,
     "sex": "Male",
     "damId": 1871285,
     "sireId": 1907076,
-    "ownerAccount": {
-      "displayName": "Amy York"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Paul Wilhelm",
     "linearAppraisals": [],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*B",
@@ -4066,21 +3534,29 @@
         "awardYear": 2022,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Amy York"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "TUA Farms AC Apricot Brandy",
-    "dateOfBirth": "2021-03-11T16:56:26",
+    "description": "",
     "normalizeId": "PD2161429",
+    "dateOfBirth": "2021-03-11T16:56:26",
+    "dateOfDeath": "2022-02-12T11:11:54",
+    "colorAndMarking": "",
     "id": 2161429,
     "sex": "Female",
     "damId": 1542001,
     "sireId": 1866600,
-    "ownerAccount": {
-      "displayName": "Amy York"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Dixie Davis",
     "linearAppraisals": [
       {
         "lactationNumber": 3,
@@ -4105,6 +3581,8 @@
         "id": 305238
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (AR)",
@@ -4148,23 +3626,32 @@
         "awardYear": 2021,
         "awardCount": 3
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Amy York"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "CH Cuatlilredbarn Whistle Back",
+    "description": "",
+    "normalizeId": "PD1934362",
     "dateOfBirth": "2018-03-20T00:00:00",
     "dateOfDeath": "2024-07-12T08:14:46",
-    "normalizeId": "PD1934362",
+    "colorAndMarking": "",
     "id": 1726677,
     "sex": "Male",
     "damId": 1465285,
     "sireId": 1543525,
-    "ownerAccount": {
-      "displayName": ""
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "CH",
@@ -4178,21 +3665,29 @@
         "awardYear": 2020,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "SG Four Cedars EB Rissa",
-    "dateOfBirth": "2016-04-12T00:00:00",
+    "description": "",
     "normalizeId": "PD1798238",
+    "dateOfBirth": "2016-04-12T00:00:00",
+    "dateOfDeath": "2022-06-16T17:57:59",
+    "colorAndMarking": "",
     "id": 1590454,
     "sex": "Female",
     "damId": 1483561,
     "sireId": 1309153,
-    "ownerAccount": {
-      "displayName": ""
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Pia Wood",
     "linearAppraisals": [
       {
         "lactationNumber": 2,
@@ -4206,6 +3701,8 @@
         "id": 260679
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "SG",
@@ -4213,22 +3710,29 @@
         "awardYear": 2019,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Leisure Time TT Silver Coconut",
+    "description": "",
+    "normalizeId": "PD1725037",
     "dateOfBirth": "2015-03-08T00:00:00",
     "dateOfDeath": "2019-12-12T00:00:00",
-    "normalizeId": "PD1725037",
+    "colorAndMarking": "",
     "id": 1517162,
     "sex": "Male",
     "damId": 1420923,
     "sireId": 1423445,
-    "ownerAccount": {
-      "displayName": ""
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -4242,6 +3746,8 @@
         "id": 260597
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*B",
@@ -4249,21 +3755,29 @@
         "awardYear": 2015,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Alethia Shh Gunsmoke N Lace",
-    "dateOfBirth": "2014-04-16T00:00:00",
+    "description": "",
     "normalizeId": "PD1683491",
+    "dateOfBirth": "2014-04-16T00:00:00",
+    "dateOfDeath": "2018-02-03T00:00:00",
+    "colorAndMarking": "",
     "id": 1475551,
     "sex": "Male",
     "damId": 1345758,
     "sireId": 1169324,
-    "ownerAccount": {
-      "displayName": ""
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "",
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -4277,6 +3791,8 @@
         "id": 226594
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "+B (AR)",
@@ -4290,38 +3806,55 @@
         "awardYear": 2019,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Alethia ET Boomerang",
+    "description": "",
+    "normalizeId": "PD1674731",
     "dateOfBirth": "2014-03-22T00:00:00",
     "dateOfDeath": "2020-01-12T18:13:58",
-    "normalizeId": "PD1674731",
+    "colorAndMarking": "",
     "id": 1466772,
     "sex": "Male",
     "damId": 1345754,
     "sireId": 1395894,
+    "owner": "Judith A Bevaart",
+    "linearAppraisals": [],
+    "pet": false,
+    "price": "",
+    "awards": [],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
     "ownerAccount": {
       "displayName": "Alex & Marsha Hickman"
     },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [],
-    "awards": []
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "SGCH Old Mountain Farm Shy Elk",
-    "dateOfBirth": "2013-05-13T00:00:00",
+    "description": "",
     "normalizeId": "PD1649575",
+    "dateOfBirth": "2013-05-13T00:00:00",
+    "dateOfDeath": "2018-03-11T00:00:00",
+    "colorAndMarking": "",
     "id": 1441532,
     "sex": "Female",
     "damId": 1382867,
     "sireId": 1376400,
-    "ownerAccount": {
-      "displayName": "Greg & Barbara Brown"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "",
     "linearAppraisals": [
       {
         "lactationNumber": 8,
@@ -4357,6 +3890,8 @@
         "id": 228892
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (ST)",
@@ -4412,23 +3947,122 @@
         "awardYear": 2015,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Greg & Barbara Brown"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
+    "name": "Alethia DJ Triton",
+    "description": "",
+    "normalizeId": "PD1631527",
+    "dateOfBirth": "2013-03-16T00:00:00",
+    "dateOfDeath": "2022-06-16T17:57:59",
+    "colorAndMarking": "",
+    "id": 1423445,
+    "sex": "Male",
+    "damId": 1169319,
+    "sireId": 1148220,
+    "owner": "Kristine Struve-Hagan",
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2018-05-06T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 88,
+        "isPermanent": true,
+        "id": 257331
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2016-09-01T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 83,
+        "isPermanent": false,
+        "id": 246887
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2015-06-02T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 226591
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2014-08-23T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "+",
+        "bodyCapacity": "+",
+        "mammarySystem": null,
+        "finalScore": 82,
+        "isPermanent": false,
+        "id": 220216
+      }
+    ],
+    "pet": false,
+    "price": "",
+    "awards": [
+      {
+        "awardCode": "+B (ST)",
+        "awardDescription": "1 ST Buck And 2 AR/ST Does",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2016,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2013,
+        "awardCount": 1
+      }
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Pia Wood"
+    },
+    "animalTattoo": []
+  },
+  {
+    "nickname": "",
     "name": "GCH Alethia CTO Eye Of The Tiger",
+    "description": "",
+    "normalizeId": "PD1604044",
     "dateOfBirth": "2012-04-18T00:00:00",
     "dateOfDeath": "2021-10-26T09:54:42",
-    "normalizeId": "PD1604044",
+    "colorAndMarking": "",
     "id": 1395894,
     "sex": "Male",
     "damId": 1339721,
     "sireId": 1367810,
-    "ownerAccount": {
-      "displayName": "Cheryl Wright"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "",
     "linearAppraisals": [],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "+B (ST)",
@@ -4460,21 +4094,29 @@
         "awardYear": 2019,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Cheryl Wright"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "SGCH Alethia MH Dew Ya Love Me",
-    "dateOfBirth": "2012-02-14T00:00:00",
+    "description": "",
     "normalizeId": "PD1588056",
+    "dateOfBirth": "2012-02-14T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1379888,
     "sex": "Female",
     "damId": 1169321,
     "sireId": 1270741,
-    "ownerAccount": {
-      "displayName": "Clare M Staveley"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Swift Kids",
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -4510,6 +4152,8 @@
         "id": 215939
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (ST)",
@@ -4518,16 +4162,16 @@
         "awardCount": 1
       },
       {
-        "awardCode": "GCH",
-        "awardDescription": "Grand Champion",
-        "awardYear": 2020,
-        "awardCount": 1
-      },
-      {
         "awardCode": "*M",
         "awardDescription": "*Milker Gen. Ancestry",
         "awardYear": 2020,
         "awardCount": 6
+      },
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2020,
+        "awardCount": 1
       },
       {
         "awardCode": "*M (AR)",
@@ -4565,21 +4209,29 @@
         "awardYear": 2016,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Clare M Staveley"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Honey Goat Precious Tigerlilly",
-    "dateOfBirth": "2011-04-11T00:00:00",
+    "description": "",
     "normalizeId": "PD1558708",
+    "dateOfBirth": "2011-04-11T00:00:00",
+    "dateOfDeath": "2017-04-20T00:00:00",
+    "colorAndMarking": "",
     "id": 1350500,
     "sex": "Female",
     "damId": 1337712,
     "sireId": 1350498,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "",
     "linearAppraisals": [
       {
         "lactationNumber": 4,
@@ -4626,6 +4278,8 @@
         "id": 200457
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M",
@@ -4651,121 +4305,246 @@
         "awardYear": 2014,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
+    "name": "SG The Blue Laced Bella",
+    "description": "",
+    "normalizeId": "PD1557347",
+    "dateOfBirth": "2010-04-08T00:00:00",
+    "dateOfDeath": "2021-09-03T11:42:52",
+    "colorAndMarking": "",
+    "id": 1349137,
+    "sex": "Female",
+    "damId": 1320127,
+    "sireId": 1320125,
+    "owner": "Kristine Struve-Hagan",
+    "linearAppraisals": [
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2014-08-23T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 220179
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2013-06-18T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 206586
+      },
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2012-08-19T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 200455
+      }
+    ],
+    "pet": false,
+    "price": "",
+    "awards": [
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker (ST) Milker (Progeny)",
+        "awardYear": 2015,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2014,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2012,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2012,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2012,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2013,
+        "awardCount": 1
+      }
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": []
+  },
+  {
+    "nickname": "",
     "name": "Poppy Patch Sweet Georgiabrown",
-    "dateOfBirth": "2011-04-16T00:00:00",
+    "description": "",
     "normalizeId": "PD1553509",
+    "dateOfBirth": "2011-04-16T00:00:00",
+    "dateOfDeath": "2022-08-25T21:40:30",
+    "colorAndMarking": "",
     "id": 1345298,
     "sex": "Female",
     "damId": 1149774,
     "sireId": 1315501,
+    "owner": "",
+    "linearAppraisals": [],
+    "pet": false,
+    "price": "",
+    "awards": [],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
     "ownerAccount": {
       "displayName": "Jayne Bowen"
     },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [],
-    "awards": []
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "AGS Rosasharn Unique 4D Milk",
+    "description": "",
+    "normalizeId": "PD1538223",
     "dateOfBirth": "2006-04-05T00:00:00",
     "dateOfDeath": "2015-08-11T00:00:00",
-    "normalizeId": "PD1538223",
+    "colorAndMarking": "",
     "id": 1329987,
     "sex": "Male",
     "damId": 1135520,
     "sireId": 1303239,
+    "owner": "",
+    "linearAppraisals": [],
+    "pet": false,
+    "price": "",
+    "awards": [],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
     "ownerAccount": {
       "displayName": ""
     },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [],
-    "awards": []
+    "animalTattoo": []
   },
   {
-    "name": "AGS Cornerstone Farm Terea",
-    "dateOfBirth": "2007-03-27T00:00:00",
-    "dateOfDeath": "2013-02-11T00:00:00",
-    "normalizeId": "PD1533268",
-    "id": 1325038,
-    "sex": "Female",
-    "damId": 1121158,
-    "sireId": 1223597,
-    "ownerAccount": {
-      "displayName": ""
-    },
+    "nickname": "",
+    "name": "Rosasharn BH Oh Henry",
+    "description": "",
+    "normalizeId": "PD1535296",
+    "dateOfBirth": "2010-03-29T00:00:00",
+    "dateOfDeath": "2014-08-14T00:00:00",
     "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [],
-    "awards": []
-  },
-  {
-    "name": "AGS Sno Valley Lily Of The Valley",
-    "dateOfBirth": "1800-01-01T00:00:00",
-    "normalizeId": "PD1528370",
-    "id": 1320127,
-    "sex": "Female",
-    "damId": 1320126,
-    "sireId": 1254721,
-    "ownerAccount": {
-      "displayName": ""
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [],
-    "awards": []
-  },
-  {
-    "name": "AGS Donna'S Romeo",
-    "dateOfBirth": "1800-01-01T00:00:00",
-    "normalizeId": "PD1528368",
-    "id": 1320125,
+    "id": 1327058,
     "sex": "Male",
-    "damId": 1320124,
-    "sireId": 1249913,
+    "damId": 1135827,
+    "sireId": 1279935,
+    "owner": "Heidi Harris",
+    "linearAppraisals": [],
+    "pet": false,
+    "price": "",
+    "awards": [
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2016,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2011,
+        "awardCount": 1
+      }
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
     "ownerAccount": {
       "displayName": ""
     },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [],
-    "awards": []
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Poppy Patch Almost An Angel",
-    "dateOfBirth": "2010-04-12T00:00:00",
+    "description": "",
     "normalizeId": "PD1523774",
+    "dateOfBirth": "2010-04-12T00:00:00",
+    "dateOfDeath": "2014-08-14T00:00:00",
+    "colorAndMarking": "",
     "id": 1315508,
     "sex": "Female",
     "damId": 1243158,
     "sireId": 1288564,
+    "owner": "",
+    "linearAppraisals": [],
+    "pet": false,
+    "price": "",
+    "awards": [],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
     "ownerAccount": {
       "displayName": "Susan Batterton"
     },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [],
-    "awards": []
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Algedi Farm DJ Just Like Honey",
+    "description": "",
+    "normalizeId": "PD1523769",
     "dateOfBirth": "2010-03-30T00:00:00",
     "dateOfDeath": "2017-04-19T00:00:00",
-    "normalizeId": "PD1523769",
+    "colorAndMarking": "",
     "id": 1315503,
     "sex": "Female",
     "damId": 1115488,
     "sireId": 1148220,
-    "ownerAccount": {
-      "displayName": ""
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Denise Hetland",
     "linearAppraisals": [],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M",
@@ -4779,21 +4558,29 @@
         "awardYear": 2017,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Algedi Farm MH Buck Rogers",
-    "dateOfBirth": "2010-03-17T00:00:00",
+    "description": "",
     "normalizeId": "PD1523767",
+    "dateOfBirth": "2010-03-17T00:00:00",
+    "dateOfDeath": "2022-04-22T09:55:48",
+    "colorAndMarking": "",
     "id": 1315501,
     "sex": "Male",
     "damId": 1115476,
     "sireId": 1270741,
-    "ownerAccount": {
-      "displayName": "Heidi Gonzales"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Kim Puzio",
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -4818,6 +4605,8 @@
         "id": 217495
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*B",
@@ -4825,22 +4614,29 @@
         "awardYear": 2014,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Heidi Gonzales"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "Algedi Farm SS Captain Kid",
+    "description": "",
+    "normalizeId": "PD1522844",
     "dateOfBirth": "2010-04-12T00:00:00",
     "dateOfDeath": "2016-11-01T00:00:00",
-    "normalizeId": "PD1522844",
+    "colorAndMarking": "",
     "id": 1314577,
     "sex": "Male",
     "damId": 1197712,
     "sireId": 1183104,
-    "ownerAccount": {
-      "displayName": ""
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Amy York",
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -4876,6 +4672,8 @@
         "id": 190137
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "+B (ST)",
@@ -4901,151 +4699,32 @@
         "awardYear": 2018,
         "awardCount": 1
       }
-    ]
-  },
-  {
-    "name": "SG Kastdemur'S Monte Carlo",
-    "dateOfBirth": "2009-03-11T00:00:00",
-    "dateOfDeath": "2015-08-17T00:00:00",
-    "normalizeId": "PN1496077",
-    "id": 1287767,
-    "sex": "Male",
-    "damId": 1091572,
-    "sireId": 1149480,
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
     "ownerAccount": {
       "displayName": ""
     },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [],
-    "awards": [
-      {
-        "awardCode": "++B (ST)",
-        "awardDescription": "1 AR Buck And 2 AR/ST Does",
-        "awardYear": 2018,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "++B (AR)",
-        "awardDescription": "3 AR Does And 2 AR Bucks",
-        "awardYear": 2018,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "+B (AR)",
-        "awardDescription": "2 AR Bucks",
-        "awardYear": 2018,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "+B (ST)",
-        "awardDescription": "1 ST Buck And 2 AR/ST Does",
-        "awardYear": 2017,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "+B (ST)",
-        "awardDescription": "1 AR Buck And 2 AR/ST Does",
-        "awardYear": 2016,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "SG",
-        "awardDescription": "Superior Genetics",
-        "awardYear": 2012,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "+B (AR)",
-        "awardDescription": "3 AR Does - Different Dams",
-        "awardYear": 2011,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*B",
-        "awardDescription": "*Buck",
-        "awardYear": 2009,
-        "awardCount": 1
-      }
-    ]
+    "animalTattoo": []
   },
   {
-    "name": "Rosasharn TL Bully Hill",
-    "dateOfBirth": "2008-08-03T00:00:00",
-    "normalizeId": "PD1488284",
-    "id": 1279935,
-    "sex": "Male",
-    "damId": 1209703,
-    "sireId": 1110564,
-    "ownerAccount": {
-      "displayName": "Robert Brinkman & Julie Husek"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2013-07-25T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": null,
-        "finalScore": 88,
-        "isPermanent": true,
-        "id": 208603
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2012-08-15T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "E",
-        "bodyCapacity": "V",
-        "mammarySystem": null,
-        "finalScore": 85,
-        "isPermanent": false,
-        "id": 201444
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2011-05-19T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "E",
-        "mammarySystem": null,
-        "finalScore": 87,
-        "isPermanent": false,
-        "id": 187646
-      }
-    ],
-    "awards": [
-      {
-        "awardCode": "+B (ST)",
-        "awardDescription": "1 AR Buck And 2 AR/ST Does",
-        "awardYear": 2016,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*B",
-        "awardDescription": "*Buck",
-        "awardYear": 2009,
-        "awardCount": 1
-      }
-    ]
-  },
-  {
+    "nickname": "",
     "name": "Algedi Farm MB Honeymoon Bay",
-    "dateOfBirth": "2009-03-25T00:00:00",
+    "description": "",
     "normalizeId": "PD1479117",
+    "dateOfBirth": "2009-03-25T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1270743,
     "sex": "Male",
     "damId": 1115488,
     "sireId": 1114411,
-    "ownerAccount": {
-      "displayName": "Lou Anne Schutte"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Amy York",
     "linearAppraisals": [],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "+B (AR)",
@@ -5095,22 +4774,29 @@
         "awardYear": 2014,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Lou Anne Schutte"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "SG Algedi Farm MB Manuka Honey",
+    "description": "",
+    "normalizeId": "PD1479115",
     "dateOfBirth": "2009-03-25T00:00:00",
     "dateOfDeath": "2019-07-09T00:00:00",
-    "normalizeId": "PD1479115",
+    "colorAndMarking": "",
     "id": 1270741,
     "sex": "Male",
     "damId": 1115488,
     "sireId": 1114411,
-    "ownerAccount": {
-      "displayName": ""
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "",
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -5124,6 +4810,8 @@
         "id": 183788
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "++B (ST)",
@@ -5167,73 +4855,55 @@
         "awardYear": 2014,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "AGS Qsf Xenia Chex",
-    "dateOfBirth": "1800-01-01T00:00:00",
+    "description": "",
     "normalizeId": "PD1478344",
+    "dateOfBirth": "1800-01-01T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1269970,
     "sex": "Female",
     "damId": 1295421,
     "sireId": 1114513,
+    "owner": "",
+    "linearAppraisals": [],
+    "pet": false,
+    "price": "",
+    "awards": [],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
     "ownerAccount": {
       "displayName": ""
     },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [],
-    "awards": []
+    "animalTattoo": []
   },
   {
-    "name": "Rosasharn M Leyenda",
-    "dateOfBirth": "2007-02-15T00:00:00",
-    "normalizeId": "PD1461668",
-    "id": 1253281,
-    "sex": "Female",
-    "damId": 1110563,
-    "sireId": 1193997,
-    "ownerAccount": {
-      "displayName": ""
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [],
-    "awards": [
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2008,
-        "awardCount": 3
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Protein",
-        "awardYear": 2008,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Butterfat",
-        "awardYear": 2008,
-        "awardCount": 1
-      }
-    ]
-  },
-  {
+    "nickname": "",
     "name": "GCH Algedi Farm D Capella",
+    "description": "",
+    "normalizeId": "PD1440205",
     "dateOfBirth": "2008-04-16T00:00:00",
     "dateOfDeath": "2024-10-24T18:59:47",
-    "normalizeId": "PD1440205",
+    "colorAndMarking": "",
     "id": 1231758,
     "sex": "Female",
     "damId": 1115476,
     "sireId": 1195074,
-    "ownerAccount": {
-      "displayName": ""
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "",
     "linearAppraisals": [
       {
         "lactationNumber": 7,
@@ -5269,6 +4939,8 @@
         "id": 183787
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (ST)",
@@ -5300,22 +4972,29 @@
         "awardYear": 2010,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "GCH Pholia Farm CF Doenut",
+    "description": "",
+    "normalizeId": "PD1438817",
     "dateOfBirth": "2007-09-01T00:00:00",
     "dateOfDeath": "2012-12-31T00:00:00",
-    "normalizeId": "PD1438817",
+    "colorAndMarking": "",
     "id": 1230370,
     "sex": "Male",
     "damId": 1114517,
     "sireId": 1146186,
-    "ownerAccount": {
-      "displayName": ""
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "",
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -5362,6 +5041,8 @@
         "id": 163475
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "+B (ST)",
@@ -5393,21 +5074,29 @@
         "awardYear": 2008,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "SG NC Promisedland Pal Paloma",
-    "dateOfBirth": "2007-11-27T00:00:00",
+    "description": "",
     "normalizeId": "PD1430869",
+    "dateOfBirth": "2007-11-27T00:00:00",
+    "dateOfDeath": "2020-01-12T18:13:58",
+    "colorAndMarking": "",
     "id": 1222416,
     "sex": "Female",
     "damId": 1179975,
     "sireId": 1191294,
-    "ownerAccount": {
-      "displayName": "Sharon Peck"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Alex & Marsha Hickman",
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -5421,6 +5110,8 @@
         "id": 187773
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (ST)",
@@ -5458,137 +5149,29 @@
         "awardYear": 2009,
         "awardCount": 1
       }
-    ]
-  },
-  {
-    "name": "Rosasharn UP Bit-A-Mischief",
-    "dateOfBirth": "2007-05-13T00:00:00",
-    "normalizeId": "PD1426358",
-    "id": 1217865,
-    "sex": "Male",
-    "damId": 1151280,
-    "sireId": 1165194,
-    "ownerAccount": {
-      "displayName": "Jayne Bowen"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [],
-    "awards": [
-      {
-        "awardCode": "*B",
-        "awardDescription": "*Buck",
-        "awardYear": 2007,
-        "awardCount": 1
-      }
-    ]
-  },
-  {
-    "name": "SG Wingwood Farm Tempo Aurora",
-    "dateOfBirth": "2007-04-20T00:00:00",
-    "dateOfDeath": "2017-05-12T00:00:00",
-    "normalizeId": "PN1411155",
-    "id": 1202642,
-    "sex": "Female",
-    "damId": 1056341,
-    "sireId": 1164059,
-    "ownerAccount": {
-      "displayName": ""
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2014-07-27T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "V",
-        "finalScore": 90,
-        "isPermanent": true,
-        "id": 223557
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2013-09-27T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "E",
-        "mammarySystem": "V",
-        "finalScore": 89,
-        "isPermanent": false,
-        "id": 213837
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2012-09-23T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "E",
-        "mammarySystem": "V",
-        "finalScore": 87,
-        "isPermanent": false,
-        "id": 204031
-      },
-      {
-        "lactationNumber": 3,
-        "appraisalDate": "2010-06-12T00:00:00",
-        "generalAppearance": "A",
-        "dairyStrength": "+",
-        "bodyCapacity": "+",
-        "mammarySystem": "A",
-        "finalScore": 79,
-        "isPermanent": false,
-        "id": 180536
-      }
     ],
-    "awards": [
-      {
-        "awardCode": "SG",
-        "awardDescription": "Superior Genetics",
-        "awardYear": 2010,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2008,
-        "awardCount": 3
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Protein",
-        "awardYear": 2008,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Butterfat",
-        "awardYear": 2008,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Milk",
-        "awardYear": 2008,
-        "awardCount": 1
-      }
-    ]
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Sharon Peck"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "GCH Algedi Farm DJ Splash O' Honey",
-    "dateOfBirth": "2006-04-26T00:00:00",
+    "description": "",
     "normalizeId": "PD1406245",
+    "dateOfBirth": "2006-04-26T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1197712,
     "sex": "Female",
     "damId": 1115488,
     "sireId": 1148220,
-    "ownerAccount": {
-      "displayName": "Kalypso Rousso"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Greg & Barbara Brown",
     "linearAppraisals": [
       {
         "lactationNumber": 4,
@@ -5624,6 +5207,8 @@
         "id": 163081
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M",
@@ -5649,22 +5234,29 @@
         "awardYear": 2010,
         "awardCount": 1
       }
-    ]
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
+    "ownerAccount": {
+      "displayName": "Kalypso Rousso"
+    },
+    "animalTattoo": []
   },
   {
+    "nickname": "",
     "name": "SG NC Promisedland Ram-Beau",
+    "description": "",
+    "normalizeId": "PD1389576",
     "dateOfBirth": "2006-06-30T00:00:00",
     "dateOfDeath": "2017-06-15T00:00:00",
-    "normalizeId": "PD1389576",
+    "colorAndMarking": "",
     "id": 1181006,
     "sex": "Male",
     "damId": 1123502,
     "sireId": 1123535,
-    "ownerAccount": {
-      "displayName": ""
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Cheryl Wright",
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -5700,6 +5292,8 @@
         "id": 153071
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "++B (AR)",
@@ -5743,262 +5337,29 @@
         "awardYear": 2007,
         "awardCount": 1
       }
-    ]
-  },
-  {
-    "name": "GCH Algedi Farm RK Stella Luna",
-    "dateOfBirth": "2006-04-04T00:00:00",
-    "dateOfDeath": "2022-06-30T19:15:38",
-    "normalizeId": "PD1377939",
-    "id": 1169319,
-    "sex": "Female",
-    "damId": 1115476,
-    "sireId": 1115486,
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
     "ownerAccount": {
       "displayName": ""
     },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2011-05-11T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "V",
-        "mammarySystem": "E",
-        "finalScore": 90,
-        "isPermanent": true,
-        "id": 190682
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2010-06-14T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "+",
-        "finalScore": 85,
-        "isPermanent": false,
-        "id": 181615
-      }
-    ],
-    "awards": [
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2013,
-        "awardCount": 4
-      },
-      {
-        "awardCode": "GCH",
-        "awardDescription": "Grand Champion",
-        "awardYear": 2013,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (ST)",
-        "awardDescription": "*Milker (ST) Milker (Progeny)",
-        "awardYear": 2013,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "CH",
-        "awardDescription": "Champion",
-        "awardYear": 2011,
-        "awardCount": 1
-      }
-    ]
+    "animalTattoo": []
   },
   {
-    "name": "GCH Algedi Farm Drops Of Jupiter",
-    "dateOfBirth": "2005-03-04T00:00:00",
-    "normalizeId": "PD1356832",
-    "id": 1148220,
-    "sex": "Male",
-    "damId": 1115476,
-    "sireId": 1115479,
-    "ownerAccount": {
-      "displayName": "Kalypso Rousso"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2011-07-09T00:00:00",
-        "generalAppearance": "E",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": null,
-        "finalScore": 91,
-        "isPermanent": true,
-        "id": 190130
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2008-07-25T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": null,
-        "finalScore": 89,
-        "isPermanent": false,
-        "id": 163077
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2007-06-16T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "+",
-        "bodyCapacity": "V",
-        "mammarySystem": null,
-        "finalScore": 86,
-        "isPermanent": false,
-        "id": 155613
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2006-06-05T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "E",
-        "mammarySystem": null,
-        "finalScore": 86,
-        "isPermanent": false,
-        "id": 145438
-      }
-    ],
-    "awards": [
-      {
-        "awardCode": "+B (ST)",
-        "awardDescription": "1 AR Buck And 2 AR/ST Does",
-        "awardYear": 2015,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "++B (ST)",
-        "awardDescription": "1 AR Buck And 2 AR/ST Does",
-        "awardYear": 2015,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "++B (AR)",
-        "awardDescription": "3 AR Does And 2 AR Bucks",
-        "awardYear": 2016,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "+B (AR)",
-        "awardDescription": "2 AR Bucks",
-        "awardYear": 2016,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "+B (AR)",
-        "awardDescription": "3 AR Does - Different Dams",
-        "awardYear": 2015,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "CH",
-        "awardDescription": "Champion",
-        "awardYear": 2008,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "GCH",
-        "awardDescription": "Grand Champion",
-        "awardYear": 2013,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "+B (ST)",
-        "awardDescription": "3 *M Does",
-        "awardYear": 2013,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*B",
-        "awardDescription": "*Buck",
-        "awardYear": 2011,
-        "awardCount": 1
-      }
-    ]
-  },
-  {
-    "name": "AGS Rosasharn Tom'S Bit-O-Honey",
-    "dateOfBirth": "2002-04-05T00:00:00",
-    "dateOfDeath": "2015-07-30T00:00:00",
-    "normalizeId": "PD1344379",
-    "id": 1135827,
-    "sex": "Female",
-    "damId": 1112741,
-    "sireId": 1111655,
-    "ownerAccount": {
-      "displayName": ""
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": 9,
-        "appraisalDate": "2011-05-19T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "V",
-        "mammarySystem": "+",
-        "finalScore": 86,
-        "isPermanent": true,
-        "id": 187665
-      }
-    ],
-    "awards": [
-      {
-        "awardCode": "*M (ST)",
-        "awardDescription": "*Milker (ST) Milker (Progeny)",
-        "awardYear": 2013,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Milk",
-        "awardYear": 2011,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Protein",
-        "awardYear": 2005,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Butterfat",
-        "awardYear": 2005,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2004,
-        "awardCount": 4
-      }
-    ]
-  },
-  {
+    "nickname": "",
     "name": "SG Pholia Farm RA Puzzle",
-    "dateOfBirth": "2005-02-11T00:00:00",
+    "description": "",
     "normalizeId": "PD1341942",
+    "dateOfBirth": "2005-02-11T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "",
     "id": 1133386,
     "sex": "Female",
     "damId": 1114504,
     "sireId": 1121431,
-    "ownerAccount": {
-      "displayName": ""
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
+    "owner": "Clare M Staveley",
     "linearAppraisals": [
       {
         "lactationNumber": 6,
@@ -6045,6 +5406,8 @@
         "id": 154635
       }
     ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (ST)",
@@ -6082,306 +5445,14 @@
         "awardYear": 2006,
         "awardCount": 1
       }
-    ]
-  },
-  {
-    "name": "SGCH My-Enchanted-Acres #1 Arianna",
-    "dateOfBirth": "2005-04-09T00:00:00",
-    "dateOfDeath": "2013-06-20T00:00:00",
-    "normalizeId": "PN1337624",
-    "id": 1129068,
-    "sex": "Female",
-    "damId": 981753,
-    "sireId": 1051556,
+    ],
+    "usdaId": "",
+    "usdaKey": 0,
+    "lactationRecords": [],
+    "tattoos": [],
     "ownerAccount": {
       "displayName": ""
     },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": 4,
-        "appraisalDate": "2010-08-25T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "E",
-        "finalScore": 90,
-        "isPermanent": true,
-        "id": 184414
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2009-06-16T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "E",
-        "finalScore": 90,
-        "isPermanent": false,
-        "id": 172221
-      },
-      {
-        "lactationNumber": 2,
-        "appraisalDate": "2008-07-01T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "V",
-        "finalScore": 87,
-        "isPermanent": false,
-        "id": 164677
-      }
-    ],
-    "awards": [
-      {
-        "awardCode": "SGCH",
-        "awardDescription": "Superior Genetics Grand Champion",
-        "awardYear": 2010,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "GCH",
-        "awardDescription": "Grand Champion",
-        "awardYear": 2010,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "CH",
-        "awardDescription": "Champion",
-        "awardYear": 2010,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "SG",
-        "awardDescription": "Superior Genetics",
-        "awardYear": 2009,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2007,
-        "awardCount": 6
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Protein",
-        "awardYear": 2007,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Butterfat",
-        "awardYear": 2007,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Milk",
-        "awardYear": 2008,
-        "awardCount": 1
-      }
-    ]
-  },
-  {
-    "name": "AGS Rosasharn'S Tiger L",
-    "dateOfBirth": "1999-05-03T00:00:00",
-    "dateOfDeath": "2011-02-14T00:00:00",
-    "normalizeId": "PD1319070",
-    "id": 1110564,
-    "sex": "Male",
-    "damId": 1111221,
-    "sireId": 1111735,
-    "ownerAccount": {
-      "displayName": ""
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2007-07-22T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "A",
-        "bodyCapacity": "E",
-        "mammarySystem": null,
-        "finalScore": 82,
-        "isPermanent": true,
-        "id": 158014
-      }
-    ],
-    "awards": [
-      {
-        "awardCode": "++B (AR)",
-        "awardDescription": "3 AR Does And 2 AR Bucks",
-        "awardYear": 2006,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "+B (AR)",
-        "awardDescription": "2 AR Bucks",
-        "awardYear": 2006,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "+B (AR)",
-        "awardDescription": "3 AR Does - Different Dams",
-        "awardYear": 2005,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "+B (ST)",
-        "awardDescription": "1 ST Buck And 2 AR/ST Does",
-        "awardYear": 2006,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "++B (ST)",
-        "awardDescription": "1 ST Buck And 2 AR/ST Does",
-        "awardYear": 2002,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "+B (ST)",
-        "awardDescription": "3 *M Does",
-        "awardYear": 2002,
-        "awardCount": 1
-      }
-    ]
-  },
-  {
-    "name": "SGCH Copper-Hill Breakaway'S Sonset",
-    "dateOfBirth": "2002-03-17T00:00:00",
-    "dateOfDeath": "2012-05-29T00:00:00",
-    "normalizeId": "PN1253010",
-    "id": 1043912,
-    "sex": "Male",
-    "damId": 992035,
-    "sireId": 756453,
-    "ownerAccount": {
-      "displayName": ""
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2010-08-26T00:00:00",
-        "generalAppearance": "E",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": null,
-        "finalScore": 91,
-        "isPermanent": true,
-        "id": 184017
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2007-08-19T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "E",
-        "mammarySystem": null,
-        "finalScore": 87,
-        "isPermanent": false,
-        "id": 158094
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2006-06-19T00:00:00",
-        "generalAppearance": "E",
-        "dairyStrength": "V",
-        "bodyCapacity": "E",
-        "mammarySystem": null,
-        "finalScore": 90,
-        "isPermanent": false,
-        "id": 146122
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2004-09-21T00:00:00",
-        "generalAppearance": "V ",
-        "dairyStrength": "E ",
-        "bodyCapacity": "E ",
-        "mammarySystem": null,
-        "finalScore": 89,
-        "isPermanent": false,
-        "id": 144238
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2005-06-12T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "+",
-        "bodyCapacity": "E",
-        "mammarySystem": null,
-        "finalScore": 85,
-        "isPermanent": false,
-        "id": 714
-      }
-    ],
-    "awards": [
-      {
-        "awardCode": "++B (AR)",
-        "awardDescription": "3 AR Does And 2 AR Bucks",
-        "awardYear": 2017,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "+B (AR)",
-        "awardDescription": "2 AR Bucks",
-        "awardYear": 2017,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "+B (ST)",
-        "awardDescription": "1 AR Buck And 2 AR/ST Does",
-        "awardYear": 2014,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "SGCH",
-        "awardDescription": "Superior Genetics Grand Champion",
-        "awardYear": 2006,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "GCH",
-        "awardDescription": "Grand Champion",
-        "awardYear": 2006,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "CH",
-        "awardDescription": "Champion",
-        "awardYear": 2006,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "SG",
-        "awardDescription": "Superior Genetics",
-        "awardYear": 2006,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "LINEAR",
-        "awardDescription": "Linear Appraisal",
-        "awardYear": 2003,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "+B (AR)",
-        "awardDescription": "3 AR Does - Different Dams",
-        "awardYear": 2004,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*B",
-        "awardDescription": "*Buck",
-        "awardYear": 2002,
-        "awardCount": 1
-      }
-    ]
+    "animalTattoo": []
   }
 ]
