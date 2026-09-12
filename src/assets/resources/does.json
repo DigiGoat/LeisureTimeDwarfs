@@ -5037,38 +5037,6 @@
     "awards": []
   },
   {
-    "name": "Leisure Time Lucy In The Sky",
-    "dateOfBirth": "2025-03-24T16:58:52",
-    "normalizeId": "PD2502265",
-    "id": 2502265,
-    "sex": "Female",
-    "damId": 2175806,
-    "sireId": 2298456,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "Broken Buckskin, Brown Eyes",
-    "animalTattoo": [
-      {
-        "tattoo": "1LTD",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "T4",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002502265",
-    "usdaKey": 2225474,
-    "lactationRecords": [],
-    "awards": []
-  },
-  {
     "name": "Leisure Time Bee'S BB Gun",
     "dateOfBirth": "2025-04-14T17:07:28",
     "normalizeId": "PD2502266",
