@@ -5005,38 +5005,6 @@
     "awards": []
   },
   {
-    "name": "Leisure Time Dreamingofsolveig",
-    "dateOfBirth": "2025-03-25T12:25:42",
-    "normalizeId": "PD2471924",
-    "id": 2471924,
-    "sex": "Female",
-    "damId": 2349162,
-    "sireId": 2231572,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "Broken Buckskin, Brown Eyes",
-    "animalTattoo": [
-      {
-        "tattoo": "1LTD",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "T13",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002471924",
-    "usdaKey": 2201742,
-    "lactationRecords": [],
-    "awards": []
-  },
-  {
     "name": "Leisure Time TB Maar",
     "dateOfBirth": "2025-04-13T12:29:47",
     "normalizeId": "PD2471925",
