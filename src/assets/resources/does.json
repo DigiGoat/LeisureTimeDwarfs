@@ -4941,38 +4941,6 @@
     "awards": []
   },
   {
-    "name": "Leisure Time BB Gemstone",
-    "dateOfBirth": "2025-03-24T18:11:18",
-    "normalizeId": "PD2451500",
-    "id": 2451500,
-    "sex": "Female",
-    "damId": 2231574,
-    "sireId": 2298456,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "Broken Buckskin, Brown Eyes",
-    "animalTattoo": [
-      {
-        "tattoo": "1LTD",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "T9",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002451500",
-    "usdaKey": 2196022,
-    "lactationRecords": [],
-    "awards": []
-  },
-  {
     "name": "Leisure Time BB Onyx",
     "dateOfBirth": "2025-03-24T18:16:57",
     "normalizeId": "PD2451504",
