@@ -5037,38 +5037,6 @@
     "awards": []
   },
   {
-    "name": "Leisure Time Bee'S BB Gun",
-    "dateOfBirth": "2025-04-14T17:07:28",
-    "normalizeId": "PD2502266",
-    "id": 2502266,
-    "sex": "Female",
-    "damId": 2256088,
-    "sireId": 2298456,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "Buckskin, Brown Eyes",
-    "animalTattoo": [
-      {
-        "tattoo": "1LTD",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "T37",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002502266",
-    "usdaKey": 2225475,
-    "lactationRecords": [],
-    "awards": []
-  },
-  {
     "name": "Leisure Time Trouble In Loihi",
     "dateOfBirth": "2025-04-13T17:15:20",
     "normalizeId": "PD2502267",
