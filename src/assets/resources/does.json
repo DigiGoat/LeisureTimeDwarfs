@@ -5005,38 +5005,6 @@
     "awards": []
   },
   {
-    "name": "Leisure Time BB Noelani",
-    "dateOfBirth": "2025-03-26T12:50:39",
-    "normalizeId": "PD2474063",
-    "id": 2474063,
-    "sex": "Female",
-    "damId": 2231568,
-    "sireId": 2298456,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "Broken Buckskin, Brown Eyes",
-    "animalTattoo": [
-      {
-        "tattoo": "1LTD",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "T18",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002474063",
-    "usdaKey": 2203899,
-    "lactationRecords": [],
-    "awards": []
-  },
-  {
     "name": "Leisure Time  Girls Night Out",
     "dateOfBirth": "2026-03-24T13:55:00",
     "normalizeId": "PD2497956",
