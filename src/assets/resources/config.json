@@ -18,7 +18,7 @@
       "quaternary": "hsl(0, 50%, 25%)"
     }
   },
-  "kiddingSchedule": true,
+  "kiddingSchedule": false,
   "kiddingScheduleDescription": "",
   "references": true,
   "forSale": false,
