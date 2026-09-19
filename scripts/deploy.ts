@@ -257,10 +257,14 @@ async function setupMarkdown() {
 function build() {
   log.debug('Compiling Project');
   const base = url?.pathname;
+  const command = `yarn build ${base ? `--base-href ${base}${base.endsWith('/') ? '' : '/'}` : ''}`;
   try {
-    execSync(`yarn build ${base ? `--base-href ${base}${base.endsWith('/') ? '' : '/'}` : ''}`);
+    execSync(command, { stdio: 'inherit' });
   } catch (error) {
-    log.error('Failed to Compile Project:', error, (error as Record<string, string>).stderr.toString());
+    const stderr = error && typeof error === 'object' && 'stderr' in error && (error as { stderr?: Buffer }).stderr
+      ? (error as { stderr?: Buffer }).stderr?.toString()
+      : '';
+    log.error('Failed to Compile Project:', error, stderr);
     process.exit(1);
   }
 }
