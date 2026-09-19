@@ -1,30 +1,17 @@
 [
   {
+    "nickname": "Mayhem",
     "name": "SGCH Leisure Time TW MoondustMayhem",
-    "dateOfBirth": "2014-04-06T00:00:00",
+    "description": "",
     "normalizeId": "PD1680034",
+    "dateOfBirth": "2014-04-06T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "Broken Chocolate Buckskin With Moonspots And Blue Eyes",
     "id": 1472088,
     "sex": "Female",
     "damId": 1426554,
     "sireId": 1391527,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "Broken Chocolate Buckskin With Moonspots And Blue Eyes",
-    "animalTattoo": [
-      {
-        "tattoo": "1LTD",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "E20",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": 4,
@@ -69,6 +56,82 @@
         "finalScore": 84,
         "isPermanent": false,
         "id": 226646
+      }
+    ],
+    "pet": false,
+    "price": "",
+    "awards": [
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Protein)",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Butterfat)",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Milk)",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker (ST) Milker (Progeny)",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SGCH",
+        "awardDescription": "Superior Genetics Grand Champion",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2015,
+        "awardCount": 5
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2015,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2015,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2015,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2015,
+        "awardCount": 1
       }
     ],
     "usdaId": "NDUSA000001680034",
@@ -677,93 +740,19 @@
         ]
       }
     ],
-    "awards": [
+    "tattoos": [
       {
-        "awardCode": "*M (ST)",
-        "awardDescription": "*Milker Owner Sample (Protein)",
-        "awardYear": 2020,
-        "awardCount": 1
+        "location": "1LTD",
+        "description": "RE"
       },
       {
-        "awardCode": "*M (ST)",
-        "awardDescription": "*Milker Owner Sample (Butterfat)",
-        "awardYear": 2020,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (ST)",
-        "awardDescription": "*Milker Owner Sample (Milk)",
-        "awardYear": 2020,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (ST)",
-        "awardDescription": "*Milker (ST) Milker (Progeny)",
-        "awardYear": 2019,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "SGCH",
-        "awardDescription": "Superior Genetics Grand Champion",
-        "awardYear": 2018,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "GCH",
-        "awardDescription": "Grand Champion",
-        "awardYear": 2018,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "CH",
-        "awardDescription": "Champion",
-        "awardYear": 2018,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2015,
-        "awardCount": 5
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Protein",
-        "awardYear": 2015,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Butterfat",
-        "awardYear": 2015,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Milk",
-        "awardYear": 2015,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "SG",
-        "awardDescription": "Superior Genetics",
-        "awardYear": 2015,
-        "awardCount": 1
+        "location": "E20",
+        "description": "LE"
       }
-    ]
-  },
-  {
-    "name": "SG Leisure Time ZZ Scandalous ",
-    "dateOfBirth": "2018-02-25T00:00:00",
-    "normalizeId": "PD1938605",
-    "id": 1730920,
-    "sex": "Female",
-    "damId": 1472088,
-    "sireId": 1644245,
+    ],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "Chocolate Buckskin With Moon Spots & Brown Eyes",
     "animalTattoo": [
       {
         "tattoo": "1LTD",
@@ -772,12 +761,26 @@
         }
       },
       {
-        "tattoo": "K31",
+        "tattoo": "E20",
         "tattooLocation": {
           "name": "LE"
         }
       }
-    ],
+    ]
+  },
+  {
+    "nickname": "",
+    "name": "SG Leisure Time ZZ Scandalous ",
+    "description": "",
+    "normalizeId": "PD1938605",
+    "dateOfBirth": "2018-02-25T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "Chocolate Buckskin With Moon Spots & Brown Eyes",
+    "id": 1730920,
+    "sex": "Female",
+    "damId": 1472088,
+    "sireId": 1644245,
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": 6,
@@ -822,6 +825,64 @@
         "finalScore": 85,
         "isPermanent": false,
         "id": 276021
+      }
+    ],
+    "pet": false,
+    "price": "",
+    "awards": [
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker (ST) Milker (Progeny)",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Protein)",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Butterfat)",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Milk)",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2019,
+        "awardCount": 6
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2020,
+        "awardCount": 1
       }
     ],
     "usdaId": "NDUSA000001938605",
@@ -1408,75 +1469,19 @@
         ]
       }
     ],
-    "awards": [
+    "tattoos": [
       {
-        "awardCode": "*M (ST)",
-        "awardDescription": "*Milker (ST) Milker (Progeny)",
-        "awardYear": 2022,
-        "awardCount": 1
+        "location": "1LTD",
+        "description": "RE"
       },
       {
-        "awardCode": "*M (ST)",
-        "awardDescription": "*Milker Owner Sample (Protein)",
-        "awardYear": 2021,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (ST)",
-        "awardDescription": "*Milker Owner Sample (Butterfat)",
-        "awardYear": 2021,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (ST)",
-        "awardDescription": "*Milker Owner Sample (Milk)",
-        "awardYear": 2021,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2019,
-        "awardCount": 6
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Protein",
-        "awardYear": 2019,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Butterfat",
-        "awardYear": 2019,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Milk",
-        "awardYear": 2019,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "SG",
-        "awardDescription": "Superior Genetics",
-        "awardYear": 2020,
-        "awardCount": 1
+        "location": "K31",
+        "description": "LE"
       }
-    ]
-  },
-  {
-    "name": "Leisure Time ZZ Tigerlily ",
-    "dateOfBirth": "2018-03-05T00:00:00",
-    "normalizeId": "PD1938606",
-    "id": 1730921,
-    "sex": "Female",
-    "damId": 1517160,
-    "sireId": 1644245,
+    ],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "Broken Buckskin, Brown Eyes",
     "animalTattoo": [
       {
         "tattoo": "1LTD",
@@ -1485,12 +1490,26 @@
         }
       },
       {
-        "tattoo": "K54",
+        "tattoo": "K31",
         "tattooLocation": {
           "name": "LE"
         }
       }
-    ],
+    ]
+  },
+  {
+    "nickname": "",
+    "name": "Leisure Time ZZ Tigerlily ",
+    "description": "",
+    "normalizeId": "PD1938606",
+    "dateOfBirth": "2018-03-05T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "Broken Buckskin, Brown Eyes",
+    "id": 1730921,
+    "sex": "Female",
+    "damId": 1517160,
+    "sireId": 1644245,
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": 3,
@@ -1513,6 +1532,28 @@
         "finalScore": 87,
         "isPermanent": false,
         "id": 284939
+      }
+    ],
+    "pet": false,
+    "price": "",
+    "awards": [
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2021,
+        "awardCount": 3
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2021,
+        "awardCount": 1
       }
     ],
     "usdaId": "NDUSA000001938606",
@@ -1831,39 +1872,19 @@
         ]
       }
     ],
-    "awards": [
+    "tattoos": [
       {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2021,
-        "awardCount": 3
+        "location": "1LTD",
+        "description": "RE"
       },
       {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Protein",
-        "awardYear": 2021,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Butterfat",
-        "awardYear": 2021,
-        "awardCount": 1
+        "location": "K54",
+        "description": "LE"
       }
-    ]
-  },
-  {
-    "name": "GCH Leisure Time SetFireToThe Rain",
-    "dateOfBirth": "2019-03-08T00:00:00",
-    "normalizeId": "PD2016405",
-    "id": 1808762,
-    "sex": "Female",
-    "damId": 1472088,
-    "sireId": 1754574,
+    ],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "Broken Chocolate Buckskin, Brown Eyes",
     "animalTattoo": [
       {
         "tattoo": "1LTD",
@@ -1872,12 +1893,26 @@
         }
       },
       {
-        "tattoo": "L9",
+        "tattoo": "K54",
         "tattooLocation": {
           "name": "LE"
         }
       }
-    ],
+    ]
+  },
+  {
+    "nickname": "",
+    "name": "GCH Leisure Time SetFireToThe Rain",
+    "description": "",
+    "normalizeId": "PD2016405",
+    "dateOfBirth": "2019-03-08T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "Broken Chocolate Buckskin, Brown Eyes",
+    "id": 1808762,
+    "sex": "Female",
+    "damId": 1472088,
+    "sireId": 1754574,
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": 4,
@@ -1900,6 +1935,58 @@
         "finalScore": 86,
         "isPermanent": false,
         "id": 285466
+      }
+    ],
+    "pet": false,
+    "price": "",
+    "awards": [
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Protein)",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Butterfat)",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Milk)",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2023,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2020,
+        "awardCount": 6
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2020,
+        "awardCount": 1
       }
     ],
     "usdaId": "NDUSA000002016405",
@@ -2384,69 +2471,19 @@
         ]
       }
     ],
-    "awards": [
+    "tattoos": [
       {
-        "awardCode": "*M (ST)",
-        "awardDescription": "*Milker Owner Sample (Protein)",
-        "awardYear": 2021,
-        "awardCount": 1
+        "location": "1LTD",
+        "description": "RE"
       },
       {
-        "awardCode": "*M (ST)",
-        "awardDescription": "*Milker Owner Sample (Butterfat)",
-        "awardYear": 2021,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (ST)",
-        "awardDescription": "*Milker Owner Sample (Milk)",
-        "awardYear": 2021,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "GCH",
-        "awardDescription": "Grand Champion",
-        "awardYear": 2023,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2020,
-        "awardCount": 6
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Protein",
-        "awardYear": 2020,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Butterfat",
-        "awardYear": 2020,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Milk",
-        "awardYear": 2020,
-        "awardCount": 1
+        "location": "L9",
+        "description": "LE"
       }
-    ]
-  },
-  {
-    "name": "Leisure Time GQ Faerie Mist",
-    "dateOfBirth": "2021-03-20T00:00:00",
-    "normalizeId": "PD2175806",
-    "id": 2175806,
-    "sex": "Female",
-    "damId": 1643420,
-    "sireId": 1754574,
+    ],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "Light Broken Buckskin, Blue Eyes",
     "animalTattoo": [
       {
         "tattoo": "1LTD",
@@ -2455,12 +2492,26 @@
         }
       },
       {
-        "tattoo": "N23",
+        "tattoo": "L9",
         "tattooLocation": {
           "name": "LE"
         }
       }
-    ],
+    ]
+  },
+  {
+    "nickname": "",
+    "name": "Leisure Time GQ Faerie Mist",
+    "description": "",
+    "normalizeId": "PD2175806",
+    "dateOfBirth": "2021-03-20T00:00:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "Light Broken Buckskin, Blue Eyes",
+    "id": 2175806,
+    "sex": "Female",
+    "damId": 1643420,
+    "sireId": 1754574,
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": 3,
@@ -2483,6 +2534,46 @@
         "finalScore": 87,
         "isPermanent": false,
         "id": 305592
+      }
+    ],
+    "pet": false,
+    "price": "",
+    "awards": [
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Protein)",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Butterfat)",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2021,
+        "awardCount": 4
       }
     ],
     "usdaId": "NDUSA000002175806",
@@ -2833,57 +2924,19 @@
         ]
       }
     ],
-    "awards": [
+    "tattoos": [
       {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Protein",
-        "awardYear": 2025,
-        "awardCount": 1
+        "location": "1LTD",
+        "description": "RE"
       },
       {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Butterfat",
-        "awardYear": 2025,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Milk",
-        "awardYear": 2025,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (ST)",
-        "awardDescription": "*Milker Owner Sample (Protein)",
-        "awardYear": 2022,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (ST)",
-        "awardDescription": "*Milker Owner Sample (Butterfat)",
-        "awardYear": 2022,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2021,
-        "awardCount": 4
+        "location": "N23",
+        "description": "LE"
       }
-    ]
-  },
-  {
-    "name": "Leisure Time ZZ Black Baccara",
-    "dateOfBirth": "2021-03-23T07:10:38",
-    "normalizeId": "PD2178881",
-    "id": 2178881,
-    "sex": "Female",
-    "damId": 1730922,
-    "sireId": 1644245,
+    ],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "Black With White Poll Frosted Ears, Brown Eyes",
     "animalTattoo": [
       {
         "tattoo": "1LTD",
@@ -2892,12 +2945,26 @@
         }
       },
       {
-        "tattoo": "N29",
+        "tattoo": "N23",
         "tattooLocation": {
           "name": "LE"
         }
       }
-    ],
+    ]
+  },
+  {
+    "nickname": "",
+    "name": "Leisure Time ZZ Black Baccara",
+    "description": "",
+    "normalizeId": "PD2178881",
+    "dateOfBirth": "2021-03-23T07:10:38",
+    "dateOfDeath": "",
+    "colorAndMarking": "Black With White Poll Frosted Ears, Brown Eyes",
+    "id": 2178881,
+    "sex": "Female",
+    "damId": 1730922,
+    "sireId": 1644245,
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": 3,
@@ -2920,6 +2987,34 @@
         "finalScore": 84,
         "isPermanent": false,
         "id": 305674
+      }
+    ],
+    "pet": false,
+    "price": "",
+    "awards": [
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2021,
+        "awardCount": 5
       }
     ],
     "usdaId": "NDUSA000002178881",
@@ -3278,45 +3373,19 @@
         ]
       }
     ],
-    "awards": [
+    "tattoos": [
       {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Milk",
-        "awardYear": 2025,
-        "awardCount": 1
+        "location": "1LTD",
+        "description": "RE"
       },
       {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Protein",
-        "awardYear": 2022,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Butterfat",
-        "awardYear": 2022,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2021,
-        "awardCount": 5
+        "location": "N29",
+        "description": "LE"
       }
-    ]
-  },
-  {
-    "name": "Leisure Time GQ Kohala",
-    "dateOfBirth": "2022-03-11T12:11:49",
-    "normalizeId": "PD2231568",
-    "id": 2231568,
-    "sex": "Female",
-    "damId": 1723846,
-    "sireId": 1754574,
+    ],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "Broken Buckskin, Brown Eyes",
     "animalTattoo": [
       {
         "tattoo": "1LTD",
@@ -3325,12 +3394,26 @@
         }
       },
       {
-        "tattoo": "P7",
+        "tattoo": "N29",
         "tattooLocation": {
           "name": "LE"
         }
       }
-    ],
+    ]
+  },
+  {
+    "nickname": "",
+    "name": "Leisure Time GQ Kohala",
+    "description": "",
+    "normalizeId": "PD2231568",
+    "dateOfBirth": "2022-03-11T12:11:49",
+    "dateOfDeath": "",
+    "colorAndMarking": "Broken Buckskin, Brown Eyes",
+    "id": 2231568,
+    "sex": "Female",
+    "damId": 1723846,
+    "sireId": 1754574,
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": 1,
@@ -3342,6 +3425,34 @@
         "finalScore": 86,
         "isPermanent": false,
         "id": 324101
+      }
+    ],
+    "pet": false,
+    "price": "",
+    "awards": [
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2021,
+        "awardCount": 7
       }
     ],
     "usdaId": "NDUSA000002231568",
@@ -3528,6 +3639,62 @@
         ]
       }
     ],
+    "tattoos": [
+      {
+        "location": "1LTD",
+        "description": "RE"
+      },
+      {
+        "location": "P7",
+        "description": "LE"
+      }
+    ],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": [
+      {
+        "tattoo": "1LTD",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "P7",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ]
+  },
+  {
+    "nickname": "",
+    "name": "Leisure Time PP Cinder",
+    "description": "",
+    "normalizeId": "PD2231570",
+    "dateOfBirth": "2022-03-15T12:20:21",
+    "dateOfDeath": "",
+    "colorAndMarking": "Chocolate & White, Brown Eyes",
+    "id": 2231570,
+    "sex": "Female",
+    "damId": 1882689,
+    "sireId": 1643421,
+    "owner": "Kristine Struve-Hagan",
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2023-07-31T00:00:00",
+        "generalAppearance": "G",
+        "dairyStrength": "V",
+        "bodyCapacity": "G",
+        "mammarySystem": "G",
+        "finalScore": 82,
+        "isPermanent": false,
+        "id": 306542
+      }
+    ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (AR)",
@@ -3542,56 +3709,16 @@
         "awardCount": 1
       },
       {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2025,
+        "awardCount": 8
+      },
+      {
         "awardCode": "*M (AR)",
         "awardDescription": "*Milker (AR) Milk",
         "awardYear": 2025,
         "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2021,
-        "awardCount": 7
-      }
-    ]
-  },
-  {
-    "name": "Leisure Time PP Cinder",
-    "dateOfBirth": "2022-03-15T12:20:21",
-    "normalizeId": "PD2231570",
-    "id": 2231570,
-    "sex": "Female",
-    "damId": 1882689,
-    "sireId": 1643421,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "Chocolate & White, Brown Eyes",
-    "animalTattoo": [
-      {
-        "tattoo": "1LTD",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "P14",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
-    "linearAppraisals": [
-      {
-        "lactationNumber": 1,
-        "appraisalDate": "2023-07-31T00:00:00",
-        "generalAppearance": "G",
-        "dairyStrength": "V",
-        "bodyCapacity": "G",
-        "mammarySystem": "G",
-        "finalScore": 82,
-        "isPermanent": false,
-        "id": 306542
       }
     ],
     "usdaId": "NDUSA000002231570",
@@ -3786,45 +3913,19 @@
         ]
       }
     ],
-    "awards": [
+    "tattoos": [
       {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Protein",
-        "awardYear": 2025,
-        "awardCount": 1
+        "location": "1LTD",
+        "description": "RE"
       },
       {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Butterfat",
-        "awardYear": 2025,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2025,
-        "awardCount": 8
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Milk",
-        "awardYear": 2025,
-        "awardCount": 1
+        "location": "P14",
+        "description": "LE"
       }
-    ]
-  },
-  {
-    "name": "Leisure Time GQ Fine Jewels",
-    "dateOfBirth": "2022-03-20T12:38:43",
-    "normalizeId": "PD2231574",
-    "id": 2231574,
-    "sex": "Female",
-    "damId": 1487302,
-    "sireId": 1754574,
+    ],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "Buckskin, Heavy White Overlay, Brown Eyes",
     "animalTattoo": [
       {
         "tattoo": "1LTD",
@@ -3833,12 +3934,26 @@
         }
       },
       {
-        "tattoo": "P22",
+        "tattoo": "P14",
         "tattooLocation": {
           "name": "LE"
         }
       }
-    ],
+    ]
+  },
+  {
+    "nickname": "",
+    "name": "Leisure Time GQ Fine Jewels",
+    "description": "",
+    "normalizeId": "PD2231574",
+    "dateOfBirth": "2022-03-20T12:38:43",
+    "dateOfDeath": "",
+    "colorAndMarking": "Buckskin, Heavy White Overlay, Brown Eyes",
+    "id": 2231574,
+    "sex": "Female",
+    "damId": 1487302,
+    "sireId": 1754574,
+    "owner": "Kristine Struve-Hagan",
     "linearAppraisals": [
       {
         "lactationNumber": 2,
@@ -3861,6 +3976,34 @@
         "finalScore": 83,
         "isPermanent": false,
         "id": 306543
+      }
+    ],
+    "pet": false,
+    "price": "",
+    "awards": [
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2020,
+        "awardCount": 4
       }
     ],
     "usdaId": "NDUSA000002231574",
@@ -4133,6 +4276,98 @@
         ]
       }
     ],
+    "tattoos": [
+      {
+        "location": "1LTD",
+        "description": "RE"
+      },
+      {
+        "location": "P22",
+        "description": "LE"
+      }
+    ],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": [
+      {
+        "tattoo": "1LTD",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "P22",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ]
+  },
+  {
+    "nickname": "",
+    "name": "Leisure Time VA Lil Blackdress",
+    "description": "",
+    "normalizeId": "PD2301562",
+    "dateOfBirth": "2023-03-17T13:16:35",
+    "dateOfDeath": "",
+    "colorAndMarking": "Black Little White, Blue Eyes",
+    "id": 2301562,
+    "sex": "Female",
+    "damId": 2168550,
+    "sireId": 2207576,
+    "owner": "Kristine Struve-Hagan",
+    "linearAppraisals": [],
+    "pet": false,
+    "price": "",
+    "awards": [],
+    "usdaId": "NDUSA000002301562",
+    "usdaKey": 2052382,
+    "lactationRecords": [],
+    "tattoos": [
+      {
+        "location": "1LTD",
+        "description": "RE"
+      },
+      {
+        "location": "R7",
+        "description": "LE"
+      }
+    ],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": [
+      {
+        "tattoo": "1LTD",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "R7",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ]
+  },
+  {
+    "nickname": "",
+    "name": "Leisure Time HD Soul Kisses",
+    "description": "",
+    "normalizeId": "PD2301567",
+    "dateOfBirth": "2023-03-20T13:21:44",
+    "dateOfDeath": "",
+    "colorAndMarking": "Broken Dilute Chamoisee, Blue Eyes",
+    "id": 2301567,
+    "sex": "Female",
+    "damId": 1589660,
+    "sireId": 1882649,
+    "owner": "Kristine Struve-Hagan",
+    "linearAppraisals": [],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (AR)",
@@ -4155,70 +4390,10 @@
       {
         "awardCode": "*M",
         "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2020,
+        "awardYear": 2021,
         "awardCount": 4
       }
-    ]
-  },
-  {
-    "name": "Leisure Time VA Lil Blackdress",
-    "dateOfBirth": "2023-03-17T13:16:35",
-    "normalizeId": "PD2301562",
-    "id": 2301562,
-    "sex": "Female",
-    "damId": 2168550,
-    "sireId": 2207576,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "Black Little White, Blue Eyes",
-    "animalTattoo": [
-      {
-        "tattoo": "1LTD",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "R7",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
     ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002301562",
-    "usdaKey": 2052382,
-    "lactationRecords": [],
-    "awards": []
-  },
-  {
-    "name": "Leisure Time HD Soul Kisses",
-    "dateOfBirth": "2023-03-20T13:21:44",
-    "normalizeId": "PD2301567",
-    "id": 2301567,
-    "sex": "Female",
-    "damId": 1589660,
-    "sireId": 1882649,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "Broken Dilute Chamoisee, Blue Eyes",
-    "animalTattoo": [
-      {
-        "tattoo": "1LTD",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "R23",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
-    "linearAppraisals": [],
     "usdaId": "NDUSA000002301567",
     "usdaKey": 2052387,
     "lactationRecords": [
@@ -4309,6 +4484,62 @@
         ]
       }
     ],
+    "tattoos": [
+      {
+        "location": "1LTD",
+        "description": "RE"
+      },
+      {
+        "location": "R23",
+        "description": "LE"
+      }
+    ],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": [
+      {
+        "tattoo": "1LTD",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "R23",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ]
+  },
+  {
+    "nickname": "",
+    "name": "Leisure Time VA Daydream ",
+    "description": "",
+    "normalizeId": "PD2349162",
+    "dateOfBirth": "2023-03-17T12:36:38",
+    "dateOfDeath": "",
+    "colorAndMarking": "Broken Buckskin, Brown Eyes",
+    "id": 2349162,
+    "sex": "Female",
+    "damId": 2178881,
+    "sireId": 2207576,
+    "owner": "Kristine Struve-Hagan",
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2024-06-13T00:00:00",
+        "generalAppearance": "G",
+        "dairyStrength": "G",
+        "bodyCapacity": "A",
+        "mammarySystem": "G",
+        "finalScore": 83,
+        "isPermanent": false,
+        "id": 324104
+      }
+    ],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (AR)",
@@ -4331,48 +4562,8 @@
       {
         "awardCode": "*M",
         "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2021,
-        "awardCount": 4
-      }
-    ]
-  },
-  {
-    "name": "Leisure Time VA Daydream ",
-    "dateOfBirth": "2023-03-17T12:36:38",
-    "normalizeId": "PD2349162",
-    "id": 2349162,
-    "sex": "Female",
-    "damId": 2178881,
-    "sireId": 2207576,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "Broken Buckskin, Brown Eyes",
-    "animalTattoo": [
-      {
-        "tattoo": "1LTD",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "R4",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
-    "linearAppraisals": [
-      {
-        "lactationNumber": 1,
-        "appraisalDate": "2024-06-13T00:00:00",
-        "generalAppearance": "G",
-        "dairyStrength": "G",
-        "bodyCapacity": "A",
-        "mammarySystem": "G",
-        "finalScore": 83,
-        "isPermanent": false,
-        "id": 324104
+        "awardYear": 2022,
+        "awardCount": 6
       }
     ],
     "usdaId": "NDUSA000002349162",
@@ -4551,6 +4742,50 @@
         ]
       }
     ],
+    "tattoos": [
+      {
+        "location": "1LTD",
+        "description": "RE"
+      },
+      {
+        "location": "R4",
+        "description": "LE"
+      }
+    ],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": [
+      {
+        "tattoo": "1LTD",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "R4",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ]
+  },
+  {
+    "nickname": "",
+    "name": "Hetlandcreek GQ Bellissima",
+    "description": "",
+    "normalizeId": "PD2350134",
+    "dateOfBirth": "2023-06-18T19:43:51",
+    "dateOfDeath": "",
+    "colorAndMarking": "Broken Buckskin ",
+    "id": 2350134,
+    "sex": "Female",
+    "damId": 1301729,
+    "sireId": 1754574,
+    "owner": "Kristine Struve-Hagan",
+    "linearAppraisals": [],
+    "pet": false,
+    "price": "",
     "awards": [
       {
         "awardCode": "*M (AR)",
@@ -4559,52 +4794,18 @@
         "awardCount": 1
       },
       {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2025,
+        "awardCount": 6
+      },
+      {
         "awardCode": "*M (AR)",
         "awardDescription": "*Milker (AR) Butterfat",
         "awardYear": 2025,
         "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Milk",
-        "awardYear": 2025,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2022,
-        "awardCount": 6
-      }
-    ]
-  },
-  {
-    "name": "Hetlandcreek GQ Bellissima",
-    "dateOfBirth": "2023-06-18T19:43:51",
-    "normalizeId": "PD2350134",
-    "id": 2350134,
-    "sex": "Female",
-    "damId": 1301729,
-    "sireId": 1754574,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "Broken Buckskin ",
-    "animalTattoo": [
-      {
-        "tattoo": "DHE1",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "R1",
-        "tattooLocation": {
-          "name": "LE"
-        }
       }
     ],
-    "linearAppraisals": [],
     "usdaId": "NDUSA000002350134",
     "usdaKey": 2088498,
     "lactationRecords": [
@@ -4695,24 +4896,31 @@
         ]
       }
     ],
-    "awards": [
+    "tattoos": [
       {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Protein",
-        "awardYear": 2025,
-        "awardCount": 1
+        "location": "DHE1",
+        "description": "RE"
       },
       {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2025,
-        "awardCount": 6
+        "location": "R1",
+        "description": "LE"
+      }
+    ],
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "animalTattoo": [
+      {
+        "tattoo": "DHE1",
+        "tattooLocation": {
+          "name": "RE"
+        }
       },
       {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Butterfat",
-        "awardYear": 2025,
-        "awardCount": 1
+        "tattoo": "R1",
+        "tattooLocation": {
+          "name": "LE"
+        }
       }
     ]
   },
@@ -4877,17 +5085,38 @@
     ]
   },
   {
+    "nickname": "",
     "name": "Leisure Time HD Rainy Daze",
-    "dateOfBirth": "2024-03-22T13:27:54",
+    "description": "",
     "normalizeId": "PD2419328",
+    "dateOfBirth": "2024-03-22T13:27:54",
+    "dateOfDeath": "",
+    "colorAndMarking": "Broken Chocolate Buckskin, Brown Eyes",
     "id": 2419328,
     "sex": "Female",
     "damId": 1808762,
     "sireId": 1882649,
+    "owner": "Kristine Struve-Hagan",
+    "linearAppraisals": [],
+    "pet": false,
+    "price": "",
+    "awards": [],
+    "usdaId": "NDUSA000002419328",
+    "usdaKey": 2149767,
+    "lactationRecords": [],
+    "tattoos": [
+      {
+        "location": "1LTD",
+        "description": "RE"
+      },
+      {
+        "location": "S11",
+        "description": "LE"
+      }
+    ],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "Broken Chocolate Buckskin, Brown Eyes",
     "animalTattoo": [
       {
         "tattoo": "1LTD",
@@ -4901,25 +5130,41 @@
           "name": "LE"
         }
       }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002419328",
-    "usdaKey": 2149767,
-    "lactationRecords": [],
-    "awards": []
+    ]
   },
   {
+    "nickname": "",
     "name": "Leisure Time TB LA Dolce Vita",
-    "dateOfBirth": "2025-03-25T13:28:47",
+    "description": "",
     "normalizeId": "PD2443695",
+    "dateOfBirth": "2025-03-25T13:28:47",
+    "dateOfDeath": "",
+    "colorAndMarking": "Chocolate Buckskin, Moonspots, Brown Eyes",
     "id": 2443695,
     "sex": "Female",
     "damId": 2350134,
     "sireId": 2327518,
+    "owner": "Kristine Struve-Hagan",
+    "linearAppraisals": [],
+    "pet": false,
+    "price": "",
+    "awards": [],
+    "usdaId": "NDUSA000002443695",
+    "usdaKey": 2177674,
+    "lactationRecords": [],
+    "tattoos": [
+      {
+        "location": "1LTD",
+        "description": "RE"
+      },
+      {
+        "location": "T12",
+        "description": "LE"
+      }
+    ],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "Chocolate Buckskin, Moonspots, Brown Eyes",
     "animalTattoo": [
       {
         "tattoo": "1LTD",
@@ -4933,25 +5178,41 @@
           "name": "LE"
         }
       }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002443695",
-    "usdaKey": 2177674,
-    "lactationRecords": [],
-    "awards": []
+    ]
   },
   {
+    "nickname": "",
     "name": "Leisure Time BB Onyx",
-    "dateOfBirth": "2025-03-24T18:16:57",
+    "description": "",
     "normalizeId": "PD2451504",
+    "dateOfBirth": "2025-03-24T18:16:57",
+    "dateOfDeath": "",
+    "colorAndMarking": "Black With Small White, Brown Eyes",
     "id": 2451504,
     "sex": "Female",
     "damId": 2231574,
     "sireId": 2298456,
+    "owner": "Kristine Struve-Hagan",
+    "linearAppraisals": [],
+    "pet": false,
+    "price": "",
+    "awards": [],
+    "usdaId": "NDUSA000002451504",
+    "usdaKey": 2196026,
+    "lactationRecords": [],
+    "tattoos": [
+      {
+        "location": "1LTD",
+        "description": "RE"
+      },
+      {
+        "location": "T11",
+        "description": "LE"
+      }
+    ],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "Black With Small White, Brown Eyes",
     "animalTattoo": [
       {
         "tattoo": "1LTD",
@@ -4965,25 +5226,41 @@
           "name": "LE"
         }
       }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002451504",
-    "usdaKey": 2196026,
-    "lactationRecords": [],
-    "awards": []
+    ]
   },
   {
+    "nickname": "",
     "name": "Leisure Time HD LA-Tee-DA",
-    "dateOfBirth": "2025-04-14T13:34:54",
+    "description": "",
     "normalizeId": "PD2460776",
+    "dateOfBirth": "2025-04-14T13:34:54",
+    "dateOfDeath": "",
+    "colorAndMarking": "Broken Buckskin, Brown Eyed Girl",
     "id": 2460776,
     "sex": "Female",
     "damId": 2231570,
     "sireId": 1882649,
+    "owner": "Kristine Struve-Hagan",
+    "linearAppraisals": [],
+    "pet": false,
+    "price": "",
+    "awards": [],
+    "usdaId": "NDUSA000002460776",
+    "usdaKey": 2186690,
+    "lactationRecords": [],
+    "tattoos": [
+      {
+        "location": "1LTD",
+        "description": "RE"
+      },
+      {
+        "location": "T35",
+        "description": "LE"
+      }
+    ],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "Broken Buckskin, Brown Eyed Girl",
     "animalTattoo": [
       {
         "tattoo": "1LTD",
@@ -4997,25 +5274,41 @@
           "name": "LE"
         }
       }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002460776",
-    "usdaKey": 2186690,
-    "lactationRecords": [],
-    "awards": []
+    ]
   },
   {
+    "nickname": "",
     "name": "Leisure Time  Girls Night Out",
-    "dateOfBirth": "2026-03-24T13:55:00",
+    "description": "",
     "normalizeId": "PD2497956",
+    "dateOfBirth": "2026-03-24T13:55:00",
+    "dateOfDeath": "",
+    "colorAndMarking": "Broken Chamoisee, Moon Spots, Brown Eyes",
     "id": 2497956,
     "sex": "Female",
     "damId": 2301562,
     "sireId": 2324928,
+    "owner": "Kristine Struve-Hagan",
+    "linearAppraisals": [],
+    "pet": false,
+    "price": "",
+    "awards": [],
+    "usdaId": "NDUSA000002497956",
+    "usdaKey": 2221108,
+    "lactationRecords": [],
+    "tattoos": [
+      {
+        "location": "1LTD",
+        "description": "RE"
+      },
+      {
+        "location": "V26",
+        "description": "LE"
+      }
+    ],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "Broken Chamoisee, Moon Spots, Brown Eyes",
     "animalTattoo": [
       {
         "tattoo": "1LTD",
@@ -5029,25 +5322,41 @@
           "name": "LE"
         }
       }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002497956",
-    "usdaKey": 2221108,
-    "lactationRecords": [],
-    "awards": []
+    ]
   },
   {
+    "nickname": "",
     "name": "Leisure Time Trouble In Loihi",
-    "dateOfBirth": "2025-04-13T17:15:20",
+    "description": "",
     "normalizeId": "PD2502267",
+    "dateOfBirth": "2025-04-13T17:15:20",
+    "dateOfDeath": "",
+    "colorAndMarking": "Light Buckskin, Brown Eyes",
     "id": 2502267,
     "sex": "Female",
     "damId": 1723846,
     "sireId": 2327518,
+    "owner": "Kristine Struve-Hagan",
+    "linearAppraisals": [],
+    "pet": false,
+    "price": "",
+    "awards": [],
+    "usdaId": "NDUSA000002502267",
+    "usdaKey": 2225476,
+    "lactationRecords": [],
+    "tattoos": [
+      {
+        "location": "1LTD",
+        "description": "RE"
+      },
+      {
+        "location": "T31",
+        "description": "LE"
+      }
+    ],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "Light Buckskin, Brown Eyes",
     "animalTattoo": [
       {
         "tattoo": "1LTD",
@@ -5061,25 +5370,41 @@
           "name": "LE"
         }
       }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002502267",
-    "usdaKey": 2225476,
-    "lactationRecords": [],
-    "awards": []
+    ]
   },
   {
+    "nickname": "",
     "name": "Leisure Time TB Scentimental",
-    "dateOfBirth": "2026-04-18T14:24:37",
+    "description": "",
     "normalizeId": "PD2506271",
+    "dateOfBirth": "2026-04-18T14:24:37",
+    "dateOfDeath": "",
+    "colorAndMarking": "Broken Buckskin, Roaning, Moon Spots, Brown Eyes",
     "id": 2506271,
     "sex": "Female",
     "damId": 2178881,
     "sireId": 2327518,
+    "owner": "Kristine Struve-Hagan",
+    "linearAppraisals": [],
+    "pet": false,
+    "price": "",
+    "awards": [],
+    "usdaId": "NDUSA000002506271",
+    "usdaKey": 2229555,
+    "lactationRecords": [],
+    "tattoos": [
+      {
+        "location": "1LTD",
+        "description": "RE"
+      },
+      {
+        "location": "V41",
+        "description": "LE"
+      }
+    ],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "Broken Buckskin, Roaning, Moon Spots, Brown Eyes",
     "animalTattoo": [
       {
         "tattoo": "1LTD",
@@ -5093,25 +5418,41 @@
           "name": "LE"
         }
       }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002506271",
-    "usdaKey": 2229555,
-    "lactationRecords": [],
-    "awards": []
+    ]
   },
   {
+    "nickname": "",
     "name": "Leisure Time TB Brookite",
-    "dateOfBirth": "2026-03-17T16:12:11",
+    "description": "",
     "normalizeId": "PD2516930",
+    "dateOfBirth": "2026-03-17T16:12:11",
+    "dateOfDeath": "",
+    "colorAndMarking": "Chocolate & White, Brown Eyes",
     "id": 2516930,
     "sex": "Female",
     "damId": 2231574,
     "sireId": 2327518,
+    "owner": "Kristine Struve-Hagan",
+    "linearAppraisals": [],
+    "pet": false,
+    "price": "",
+    "awards": [],
+    "usdaId": "NDUSA000002516930",
+    "usdaKey": 2240117,
+    "lactationRecords": [],
+    "tattoos": [
+      {
+        "location": "1LTD",
+        "description": "RE"
+      },
+      {
+        "location": "V19",
+        "description": "LE"
+      }
+    ],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "Chocolate & White, Brown Eyes",
     "animalTattoo": [
       {
         "tattoo": "1LTD",
@@ -5125,25 +5466,41 @@
           "name": "LE"
         }
       }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002516930",
-    "usdaKey": 2240117,
-    "lactationRecords": [],
-    "awards": []
+    ]
   },
   {
+    "nickname": "",
     "name": "Leisure Time Moonlaced Legacy",
-    "dateOfBirth": "2026-04-14T16:17:48",
+    "description": "",
     "normalizeId": "PD2516931",
+    "dateOfBirth": "2026-04-14T16:17:48",
+    "dateOfDeath": "",
+    "colorAndMarking": "Chocolate With Moon Spots & Brown Eyes",
     "id": 2516931,
     "sex": "Female",
     "damId": 2231570,
     "sireId": 2327518,
+    "owner": "Kristine Struve-Hagan",
+    "linearAppraisals": [],
+    "pet": false,
+    "price": "",
+    "awards": [],
+    "usdaId": "NDUSA000002516931",
+    "usdaKey": 2240118,
+    "lactationRecords": [],
+    "tattoos": [
+      {
+        "location": "1LTD",
+        "description": "RE"
+      },
+      {
+        "location": "V39",
+        "description": "LE"
+      }
+    ],
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
     },
-    "colorAndMarking": "Chocolate With Moon Spots & Brown Eyes",
     "animalTattoo": [
       {
         "tattoo": "1LTD",
@@ -5157,11 +5514,6 @@
           "name": "LE"
         }
       }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002516931",
-    "usdaKey": 2240118,
-    "lactationRecords": [],
-    "awards": []
+    ]
   }
 ]
