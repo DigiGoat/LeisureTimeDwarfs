@@ -1,1 +1,16 @@
-{}
+{
+  "analytics": {
+    "gtag": "G-75Q41PNKEJ",
+    "clarity": ""
+  },
+  "firebase": {
+    "apiKey": "AIzaSyAPeYleJLcuzmJ205MSToFuTkrDRd2C8Rs",
+    "authDomain": "leisuretimedwarfs.firebaseapp.com",
+    "projectId": "leisuretimedwarfs",
+    "storageBucket": "leisuretimedwarfs.firebasestorage.app",
+    "messagingSenderId": "506655079498",
+    "appId": "1:506655079498:web:f25f7f23c7de2106343ab3"
+  },
+  "url": "https://leisuretimedwarfs.web.app/",
+  "internationalImages": false
+}
