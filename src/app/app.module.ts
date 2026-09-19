@@ -1,7 +1,7 @@
 import { NgOptimizedImage } from '@angular/common';
 import { provideHttpClient, withFetch } from '@angular/common/http';
 import { NgModule } from '@angular/core';
-import { BrowserModule, provideClientHydration } from '@angular/platform-browser';
+import { BrowserModule, provideClientHydration, withNoIncrementalHydration } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -32,6 +32,7 @@ import { AgePipe } from './pipes/age/age.pipe';
 import { FresheningPipe } from './pipes/freshening/freshening.pipe';
 import { LongDatePipe } from './pipes/longDate/longDate.pipe';
 import { CustomPageComponent } from './pages/custom-page/custom-page.component';
+import { ContactUsComponent } from './pages/contact-us/contact-us.component';
 
 
 @NgModule({
@@ -63,7 +64,8 @@ import { CustomPageComponent } from './pages/custom-page/custom-page.component';
     MarkdownComponent,
     MarkdownDirective,
     FresheningPipe,
-    CustomPageComponent
+    CustomPageComponent,
+    ContactUsComponent
   ],
   imports: [
     BrowserModule,
@@ -71,7 +73,7 @@ import { CustomPageComponent } from './pages/custom-page/custom-page.component';
     AppRoutingModule
   ],
   providers: [
-    provideClientHydration(),
+    provideClientHydration(withNoIncrementalHydration()),
     provideHttpClient(withFetch())
   ],
   bootstrap: [AppComponent]
